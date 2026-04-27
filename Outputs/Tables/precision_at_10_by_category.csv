@@ -1,0 +1,28 @@
+category,precision_at_10
+Accessibility,0.7
+Adaptability,1.0
+Capacity,0.3333333333333333
+Connectivity,0.3333333333333333
+Cost-effectiveness,1.0
+Economic Continuity,0.5
+Economic Recovery,1.0
+Emerging/Unmapped,0.2
+Environmental Protection,1.0
+Equity,0.8
+Flexibility,1.0
+Functionality,0.8
+Mobility,1.0
+Operational Performance,0.875
+Pollution Prevention,0.5
+Public Health Support,0.0
+Recoverability,0.9
+Redundancy,0.6666666666666666
+Reliability,1.0
+Resilience,0.8
+Resource Availability,0.5
+Responsiveness,1.0
+Restoration Speed,0.6666666666666666
+Robustness,0.6
+Safety,0.8333333333333334
+Serviceability,0.0
+Sustainability,1.0

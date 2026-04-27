@@ -1,0 +1,744 @@
+phrase,category,doc_count,occurrence_count,mean_score,total_score
+resilience,Economic Continuity,10,10,0.5512363636363636,6.0636
+resilience,Sustainability,10,10,0.5512363636363636,6.0636
+resilience,Resilience,10,10,0.5512363636363636,6.0636
+transportation,Accessibility,6,6,0.40726666666666667,2.4436
+transportation,Resilience,6,6,0.40726666666666667,2.4436
+management,Emerging/Unmapped,5,5,0.20212,1.0106
+climate change,Emerging/Unmapped,3,3,0.43039999999999995,1.2912
+infrastructure,Resilience,3,3,0.38563333333333333,1.1569
+transportation systems resilience,Resilience,2,2,0.80725,1.6145
+resilience equity,Equity,2,2,0.6231,1.2462
+resilience equity,Resilience,2,2,0.6231,1.2462
+network resilience,Resilience,2,2,0.5614,1.1228
+pavements,Emerging/Unmapped,2,2,0.54915,1.0983
+disasters,Emerging/Unmapped,2,2,0.54285,1.0857
+resilient,Resilience,2,2,0.49295,0.9859
+hazards,Emerging/Unmapped,2,2,0.47955000000000003,0.9591000000000001
+climate,Sustainability,2,2,0.37570000000000003,0.7514000000000001
+climate,Adaptability,2,2,0.37570000000000003,0.7514000000000001
+adaptation,Sustainability,2,2,0.3045,0.609
+adaptation,Adaptability,2,2,0.3045,0.609
+value,Emerging/Unmapped,2,2,0.26995,0.5399
+community,Resilience,2,2,0.24335,0.4867
+asset,Emerging/Unmapped,2,2,0.2095,0.419
+systems,Emerging/Unmapped,2,2,0.19590000000000002,0.39180000000000004
+network,Functionality,2,2,0.16595,0.3319
+network,Redundancy,2,2,0.16595,0.3319
+network,Connectivity,2,2,0.16595,0.3319
+network,Robustness,2,2,0.16595,0.3319
+network,Operational Performance,2,2,0.16595,0.3319
+network,Capacity,2,2,0.16595,0.3319
+change,Emerging/Unmapped,2,2,0.14800000000000002,0.29600000000000004
+natural,Environmental Protection,2,2,0.04393333333333333,0.1318
+resilience lifelines social,Resilience,1,1,0.9412,0.9412
+pavements sustainable resilient,Sustainability,1,1,0.9262,0.9262
+pavements sustainable resilient,Resilience,1,1,0.9262,0.9262
+resilient pavements sustainable,Sustainability,1,1,0.9255,0.9255
+resilient pavements sustainable,Resilience,1,1,0.9255,0.9255
+sustainable resilient pavements,Sustainability,1,1,0.919,0.919
+sustainable resilient pavements,Resilience,1,1,0.919,0.919
+infrastructure pavements sustainable,Sustainability,1,1,0.9081,0.9081
+transportation measurement resilience,Resilience,1,1,0.904,0.904
+resilience transportation dots,Resilience,1,1,0.8969,0.8969
+resilient transportation measurement,Resilience,1,1,0.8961,0.8961
+resilient pavements resilient,Resilience,1,1,0.896,0.896
+pavements sustainable pavements,Sustainability,1,1,0.8929,0.8929
+pavements resilient pavements,Resilience,1,1,0.8913,0.8913
+resilient pavements,Resilience,1,1,0.8823,0.8823
+pavements resilient,Resilience,1,1,0.878,0.878
+sustainable pavements,Sustainability,1,1,0.8711,0.8711
+pavements sustainable,Sustainability,1,1,0.8657,0.8657
+climate change transportation,Emerging/Unmapped,1,1,0.8577,0.8577
+infrastructure pavements,Emerging/Unmapped,1,1,0.8457,0.8457
+resilient resilient transportation,Resilience,1,1,0.8427,0.8427
+resilience lifelines,Resilience,1,1,0.8399,0.8399
+transportation dots hazards,Emerging/Unmapped,1,1,0.8182,0.8182
+dots hazards disasters,Emerging/Unmapped,1,1,0.813,0.813
+resilient transportation,Resilience,1,1,0.8111,0.8111
+transportation sector adaptation,Adaptability,1,1,0.8086,0.8086
+infrastructure resilience components,Resilience,1,1,0.7919,0.7919
+resilience index vulnerability,Resilience,1,1,0.7849,0.7849
+resilience transportation,Resilience,1,1,0.7819,0.7819
+lifelines social needs,Emerging/Unmapped,1,1,0.7812,0.7812
+resilience community engagement,Resilience,1,1,0.7805,0.7805
+infrastructure resilience climate,Resilience,1,1,0.7738,0.7738
+transportation network resilience,Resilience,1,1,0.7541,0.7541
+resilience transportation resilient,Resilience,1,1,0.7525,0.7525
+modeling resilience index,Resilience,1,1,0.7516,0.7516
+infrastructure climate change,Emerging/Unmapped,1,1,0.7474,0.7474
+stakeholders community disaster,Emerging/Unmapped,1,1,0.7454,0.7454
+change transportation sector,Emerging/Unmapped,1,1,0.743,0.743
+resilience disasters risk,Resilience,1,1,0.7424,0.7424
+resilience natural disasters,Resilience,1,1,0.7392,0.7392
+resilience enhancement resilience,Resilience,1,1,0.7391,0.7391
+resilience index,Resilience,1,1,0.7389,0.7389
+disaster reconstruction projects,Emerging/Unmapped,1,1,0.7374,0.7374
+vulnerability index accessibility,Accessibility,1,1,0.7372,0.7372
+crisis decisions ai,Emerging/Unmapped,1,1,0.7348,0.7348
+disaster resilience mcda,Resilience,1,1,0.7288,0.7288
+transportation resilience natural,Resilience,1,1,0.7287,0.7287
+disaster resilience transportation,Resilience,1,1,0.7285,0.7285
+measurement resilience enhancement,Resilience,1,1,0.728,0.728
+resilience road asset,Resilience,1,1,0.728,0.728
+resilience modeling resilience,Resilience,1,1,0.7248,0.7248
+earthquake resilient lifelines,Resilience,1,1,0.7232,0.7232
+measurement resilience,Resilience,1,1,0.7217,0.7217
+resilience transportation systems,Resilience,1,1,0.716,0.716
+resilience metrics road,Resilience,1,1,0.7109,0.7109
+making sustainability resilience,Sustainability,1,1,0.7076,0.7076
+making sustainability resilience,Resilience,1,1,0.7076,0.7076
+dots hazards,Emerging/Unmapped,1,1,0.7047,0.7047
+resilience ci disasteroccurence,Resilience,1,1,0.7017,0.7017
+resilience model stakeholder,Resilience,1,1,0.6994,0.6994
+disasters stakeholder value,Emerging/Unmapped,1,1,0.6992,0.6992
+resilience seismic hazards,Resilience,1,1,0.699,0.699
+resilience natural hazards,Resilience,1,1,0.6974,0.6974
+resilience enhancement,Resilience,1,1,0.6969,0.6969
+change transportation,Emerging/Unmapped,1,1,0.6961,0.6961
+stakeholder value priority,Emerging/Unmapped,1,1,0.692,0.692
+resilience equity social,Equity,1,1,0.6905,0.6905
+resilience equity social,Resilience,1,1,0.6905,0.6905
+disaster impacts,Emerging/Unmapped,1,1,0.6894,0.6894
+hazards disasters,Emerging/Unmapped,1,1,0.6878,0.6878
+resilience modeling,Resilience,1,1,0.6861,0.6861
+road network resilience,Resilience,1,1,0.6832,0.6832
+transportation infrastructure resilience,Resilience,1,1,0.6825,0.6825
+resilient transportation infrastructure,Resilience,1,1,0.6815,0.6815
+value stakeholder value,Emerging/Unmapped,1,1,0.6815,0.6815
+resilience climate change,Resilience,1,1,0.6814,0.6814
+social needs,Emerging/Unmapped,1,1,0.6769,0.6769
+pavements performance management,Emerging/Unmapped,1,1,0.6759,0.6759
+negotiated resilience community,Resilience,1,1,0.6659,0.6659
+recovery infrastructure resilience,Recoverability,1,1,0.6637,0.6637
+recovery infrastructure resilience,Resilience,1,1,0.6637,0.6637
+disaster community resilience,Resilience,1,1,0.6608,0.6608
+resilience vulnerable populations,Equity,1,1,0.6598,0.6598
+resilience vulnerable populations,Resilience,1,1,0.6598,0.6598
+computing crisis resilience,Resilience,1,1,0.6581,0.6581
+resilient resilient,Resilience,1,1,0.6564,0.6564
+network resilience seismic,Resilience,1,1,0.6561,0.6561
+vulnerability resilience assessment,Resilience,1,1,0.6561,0.6561
+modeling resilience,Resilience,1,1,0.6541,0.6541
+transportation dots,Emerging/Unmapped,1,1,0.6541,0.6541
+disasters risk reduction,Safety,1,1,0.6473,0.6473
+italy resilience,Resilience,1,1,0.6421,0.6421
+disaster resilient operations,Operational Performance,1,1,0.6419,0.6419
+disaster resilient operations,Resilience,1,1,0.6419,0.6419
+state disaster impact,Emerging/Unmapped,1,1,0.6415,0.6415
+disaster recovery infrastructure,Recoverability,1,1,0.6396,0.6396
+engagement public involvement,Emerging/Unmapped,1,1,0.6387,0.6387
+resilience disaster management,Resilience,1,1,0.6386,0.6386
+responsiveness disaster resilience,Resilience,1,1,0.6358,0.6358
+responsiveness disaster resilience,Responsiveness,1,1,0.6358,0.6358
+enhancement resilience,Resilience,1,1,0.6319,0.6319
+seismic risk analysis,Emerging/Unmapped,1,1,0.6303,0.6303
+resilience metrics,Resilience,1,1,0.6285,0.6285
+accessibility index reliability,Reliability,1,1,0.6274,0.6274
+accessibility index reliability,Accessibility,1,1,0.6274,0.6274
+community engagement public,Emerging/Unmapped,1,1,0.6218,0.6218
+resilience community,Resilience,1,1,0.6187,0.6187
+theconceptofresilienceisevolvingintothegeneralbusinessframeworkofdotsacrossthecountryto ensurethatthetransportationsystemsareabletowithstandextremeweathereventsresultingfromclimatechange terrorism,Resilience,1,1,0.6155,0.6155
+vulnerability index,Emerging/Unmapped,1,1,0.6146,0.6146
+community disaster resilience,Resilience,1,1,0.6127,0.6127
+sector adaptation options,Adaptability,1,1,0.6109,0.6109
+disasters risk,Emerging/Unmapped,1,1,0.6106,0.6106
+8r resilience,Resilience,1,1,0.6042,0.6042
+transportation sector,Emerging/Unmapped,1,1,0.6011,0.6011
+lifelines social,Emerging/Unmapped,1,1,0.6007,0.6007
+critical infrastructure transportation,Emerging/Unmapped,1,1,0.5987,0.5987
+decision making sustainability,Sustainability,1,1,0.5915,0.5915
+transportation influence diagrams,Emerging/Unmapped,1,1,0.5911,0.5911
+disaster management,Emerging/Unmapped,1,1,0.5875,0.5875
+management organizational resilience,Resilience,1,1,0.5862,0.5862
+public involvement performance,Emerging/Unmapped,1,1,0.5836,0.5836
+adaptation urban transportation,Adaptability,1,1,0.582,0.582
+populations mobility vulnerability,Mobility,1,1,0.5816,0.5816
+climate change vulnerability,Emerging/Unmapped,1,1,0.5798,0.5798
+disaster management industrial,Emerging/Unmapped,1,1,0.5772,0.5772
+systems resilience,Resilience,1,1,0.5758,0.5758
+applied computing crisis,Emerging/Unmapped,1,1,0.5755,0.5755
+infrastructure transportation influence,Emerging/Unmapped,1,1,0.5643,0.5643
+natural disasters disaster,Emerging/Unmapped,1,1,0.5614,0.5614
+resilience climate adaptation,Sustainability,1,1,0.5603,0.5603
+resilience climate adaptation,Resilience,1,1,0.5603,0.5603
+resilience climate adaptation,Adaptability,1,1,0.5603,0.5603
+negotiated resilience,Resilience,1,1,0.5595,0.5595
+performance measures resilience,Resilience,1,1,0.5576,0.5576
+index vulnerability index,Emerging/Unmapped,1,1,0.5544,0.5544
+stakeholders community,Emerging/Unmapped,1,1,0.5538,0.5538
+stakeholder,Emerging/Unmapped,1,1,0.5528,0.5528
+term performance pavements,Emerging/Unmapped,1,1,0.5511,0.5511
+human centered computing,Emerging/Unmapped,1,1,0.5508,0.5508
+sector adaptation,Adaptability,1,1,0.5471,0.5471
+seismic hazards,Emerging/Unmapped,1,1,0.5313,0.5313
+resilience natural,Resilience,1,1,0.5288,0.5288
+transportation measurement,Emerging/Unmapped,1,1,0.5283,0.5283
+state departments transportation,Emerging/Unmapped,1,1,0.5248,0.5248
+multisector stakeholders,Emerging/Unmapped,1,1,0.5233,0.5233
+climate adaptation asset,Sustainability,1,1,0.5149,0.5149
+climate adaptation asset,Adaptability,1,1,0.5149,0.5149
+reliability robustness responsiveness,Reliability,1,1,0.5143,0.5143
+reliability robustness responsiveness,Robustness,1,1,0.5143,0.5143
+reliability robustness responsiveness,Responsiveness,1,1,0.5143,0.5143
+involvement performance monitoring,Emerging/Unmapped,1,1,0.5114,0.5114
+road asset,Emerging/Unmapped,1,1,0.5088,0.5088
+adaptation options,Adaptability,1,1,0.5052,0.5052
+metrics road asset,Emerging/Unmapped,1,1,0.5021,0.5021
+sustainable resilient,Sustainability,1,1,0.5021,0.5021
+sustainable resilient,Resilience,1,1,0.5021,0.5021
+accessibility index,Accessibility,1,1,0.4966,0.4966
+critical infrastructure,Emerging/Unmapped,1,1,0.495,0.495
+information systems responsible,Emerging/Unmapped,1,1,0.4943,0.4943
+operations management lean,Operational Performance,1,1,0.4938,0.4938
+lean transformation value,Emerging/Unmapped,1,1,0.4929,0.4929
+urban transportation network,Emerging/Unmapped,1,1,0.4899,0.4899
+index accessibility index,Accessibility,1,1,0.4801,0.4801
+disaster relief,Emerging/Unmapped,1,1,0.4781,0.4781
+vulnerability,Equity,1,1,0.4731,0.4731
+systems responsible ai,Emerging/Unmapped,1,1,0.4689,0.4689
+involvement performance,Emerging/Unmapped,1,1,0.468,0.468
+natural hazards,Emerging/Unmapped,1,1,0.4656,0.9312
+reduction critical infrastructure,Emerging/Unmapped,1,1,0.4639,0.4639
+influence diagrams,Emerging/Unmapped,1,1,0.4634,0.4634
+dots,Emerging/Unmapped,1,1,0.4515,0.4515
+transportation influence,Emerging/Unmapped,1,1,0.4476,0.4476
+centered computing,Emerging/Unmapped,1,1,0.4425,0.4425
+monitoring planning,Emerging/Unmapped,1,1,0.4379,0.4379
+extreme weather,Emerging/Unmapped,1,1,0.4355,0.4355
+index reliability,Reliability,1,1,0.4323,0.4323
+stakeholder centered assessment,Emerging/Unmapped,1,1,0.432,0.432
+value priority value,Emerging/Unmapped,1,1,0.4296,0.4296
+responsiveness recoverability placement,Recoverability,1,1,0.428,0.428
+responsiveness recoverability placement,Responsiveness,1,1,0.428,0.428
+recoverability,Recoverability,1,1,0.4258,0.4258
+adaptation asset management,Adaptability,1,1,0.4228,0.4228
+mobility,Mobility,1,1,0.4197,0.4197
+computing information management,Emerging/Unmapped,1,1,0.4134,0.4134
+index vulnerability,Emerging/Unmapped,1,1,0.4127,0.4127
+lifelines,Emerging/Unmapped,1,1,0.4113,0.4113
+reliability,Reliability,1,1,0.4088,0.4088
+social,Equity,1,1,0.4048,0.4048
+value dynamics,Emerging/Unmapped,1,1,0.4028,0.4028
+involvement,Emerging/Unmapped,1,1,0.4001,0.4001
+disaster,Recoverability,1,1,0.3998,0.3998
+disaster,Resilience,1,1,0.3998,0.3998
+equity human,Equity,1,1,0.398,0.398
+redundancy resourceful ness,Redundancy,1,1,0.3957,0.3957
+transformation value stream,Emerging/Unmapped,1,1,0.3915,0.3915
+sustainable,Sustainability,1,1,0.3852,0.3852
+droughts flooding freeze,Emerging/Unmapped,1,1,0.3849,0.3849
+justice asset management,Equity,1,1,0.3832,0.3832
+planning analysis decision,Emerging/Unmapped,1,1,0.3831,0.3831
+equity social,Equity,1,1,0.381,0.381
+storms hurricanes major,Emerging/Unmapped,1,1,0.3782,0.3782
+seismic,Emerging/Unmapped,1,1,0.3759,0.3759
+management road network,Emerging/Unmapped,1,1,0.3754,0.3754
+performance management,Emerging/Unmapped,1,1,0.3754,0.3754
+accessibility,Accessibility,1,1,0.37525,0.7505
+crisis,Emerging/Unmapped,1,1,0.3741,0.3741
+transportation public,Emerging/Unmapped,1,1,0.3733,0.3733
+assessment 8rs principal,Emerging/Unmapped,1,1,0.373,0.373
+social justice,Equity,1,1,0.3711,0.3711
+ai,Restoration Speed,1,1,0.3686,0.3686
+ai,Equity,1,1,0.3686,0.3686
+ai,Economic Continuity,1,1,0.3686,0.3686
+ai,Resource Availability,1,1,0.3686,0.3686
+ai,Sustainability,1,1,0.3686,0.3686
+ai,Pollution Prevention,1,1,0.3686,0.3686
+ai,Serviceability,1,1,0.3686,0.3686
+nations definitions resilience,Resilience,1,1,0.3677,0.3677
+vulnerable,Equity,1,1,0.3652,0.3652
+kpi responsiveness disaster,Responsiveness,1,1,0.3648,0.3648
+hurricane flood tsunami,Emerging/Unmapped,1,1,0.3639,0.3639
+indonesia event,Emerging/Unmapped,1,1,0.3617,0.3617
+disruptionlevelofservicewithinareasonable timeframe freckleton,Emerging/Unmapped,1,1,0.3608,0.3608
+durability long,Emerging/Unmapped,1,1,0.3597,0.3597
+human centered,Emerging/Unmapped,1,1,0.3596,0.3596
+postdisaster situations client,Emerging/Unmapped,1,1,0.3595,0.3595
+performance monitoring planning,Emerging/Unmapped,1,1,0.359,0.359
+ness reliability,Reliability,1,1,0.3556,0.3556
+weather events,Emerging/Unmapped,1,1,0.3547,0.3547
+engagement,Emerging/Unmapped,1,1,0.3514,0.3514
+principal concepts redundancy,Redundancy,1,1,0.3504,0.3504
+dots methodology,Emerging/Unmapped,1,1,0.3464,0.3464
+strike breakdown caused,Emerging/Unmapped,1,1,0.346,0.346
+planning,Flexibility,1,1,0.3457,0.3457
+planning,Adaptability,1,1,0.3457,0.3457
+risk reduction,Safety,1,1,0.3453,0.3453
+change vulnerability,Emerging/Unmapped,1,1,0.3448,0.3448
+long term performance,Emerging/Unmapped,1,1,0.3436,0.3436
+road,Connectivity,1,1,0.3388,0.3388
+road,Capacity,1,1,0.3388,0.3388
+road,Accessibility,1,1,0.3388,0.3388
+stream mapping kpi,Emerging/Unmapped,1,1,0.3373,0.3373
+asset element,Emerging/Unmapped,1,1,0.3364,0.3364
+risk,Safety,1,1,0.3351,0.3351
+weather radar capable,Emerging/Unmapped,1,1,0.3346,0.3346
+needs,Emerging/Unmapped,1,1,0.3345,0.3345
+capable accommodating climatic,Emerging/Unmapped,1,1,0.3313,0.3313
+wildfire hazard events,Emerging/Unmapped,1,1,0.3302,0.3302
+zealand philippine national,Emerging/Unmapped,1,1,0.328,0.328
+term critical,Emerging/Unmapped,1,1,0.3224,0.3224
+robustness,Robustness,1,1,0.3223,0.3223
+climate related stressor,Emerging/Unmapped,1,1,0.3221,0.3221
+reduce community,Emerging/Unmapped,1,1,0.322,0.322
+diagrams,Emerging/Unmapped,1,1,0.3213,0.3213
+performance reporting performance,Emerging/Unmapped,1,1,0.3188,0.3188
+adaptation mitigating emissions,Adaptability,1,1,0.3183,0.3183
+tasks organization additional,Emerging/Unmapped,1,1,0.3175,0.3175
+wastewater systems susceptible,Emerging/Unmapped,1,1,0.3175,0.3175
+use selected lean,Emerging/Unmapped,1,1,0.3174,0.3174
+asset management organizational,Emerging/Unmapped,1,1,0.3141,0.3141
+valuable agencies nonexistent,Emerging/Unmapped,1,1,0.31,0.31
+model calculation disruption,Emerging/Unmapped,1,1,0.3083,0.3083
+management circle information,Emerging/Unmapped,1,1,0.3049,0.3049
+conditions vehicles vehicular,Emerging/Unmapped,1,1,0.3023,0.3023
+italy,Emerging/Unmapped,1,1,0.3022,0.3022
+vulnerable users corresponding,Emerging/Unmapped,1,1,0.3003,0.3003
+recovery facing interruptions,Recoverability,1,1,0.2998,0.2998
+management measures traditional,Emerging/Unmapped,1,1,0.299,0.299
+public,Safety,1,1,0.298,0.298
+public,Accessibility,1,1,0.298,0.298
+public,Public Health Support,1,1,0.298,0.298
+change adaptation,Adaptability,1,1,0.2975,0.2975
+zones disproportionately affected,Emerging/Unmapped,1,1,0.2933,0.2933
+monitoring,Emerging/Unmapped,1,1,0.2921,0.2921
+projects receiving federal,Emerging/Unmapped,1,1,0.2912,0.2912
+earthquakes inevitably deviate,Emerging/Unmapped,1,1,0.2905,0.2905
+metro 2005 reduced,Emerging/Unmapped,1,1,0.29,0.29
+congestion index taylor,Emerging/Unmapped,1,1,0.2882,0.2882
+snowstorms cyclones frequently,Emerging/Unmapped,1,1,0.2876,0.2876
+communicating need help,Emerging/Unmapped,1,1,0.2858,0.2858
+causing severe delays,Emerging/Unmapped,1,1,0.279,0.279
+events risk management,Emerging/Unmapped,1,1,0.2777,0.2777
+years fig hazard,Emerging/Unmapped,1,1,0.2741,0.2741
+identification integration multisector,Emerging/Unmapped,1,1,0.2726,0.2726
+data storage capacities,Emerging/Unmapped,1,1,0.2718,0.2718
+research develop approaches,Emerging/Unmapped,1,1,0.2704,0.2704
+stable state pressure,Emerging/Unmapped,1,1,0.269,0.269
+needs performance assessment,Emerging/Unmapped,1,1,0.268,0.268
+mapping,Emerging/Unmapped,1,1,0.2676,0.2676
+68 italy,Emerging/Unmapped,1,1,0.2669,0.2669
+patriot act 2001,Emerging/Unmapped,1,1,0.2624,0.2624
+urban,Emerging/Unmapped,1,1,0.26185,0.5237
+asset management,Emerging/Unmapped,1,1,0.2598,0.2598
+disproportionately impacted result,Emerging/Unmapped,1,1,0.2587,0.2587
+performance indicators carried,Emerging/Unmapped,1,1,0.2583,0.2583
+integrity residual,Emerging/Unmapped,1,1,0.255,0.255
+place prevent traffic,Emerging/Unmapped,1,1,0.2544,0.2544
+extreme,Emerging/Unmapped,1,1,0.2515,0.2515
+priority,Emerging/Unmapped,1,1,0.2509,0.2509
+metrics 8r,Emerging/Unmapped,1,1,0.2507,0.2507
+transport element transport,Emerging/Unmapped,1,1,0.2496,0.2496
+term performance,Emerging/Unmapped,1,1,0.2489,0.2489
+transformation value,Emerging/Unmapped,1,1,0.2488,0.2488
+sector,Emerging/Unmapped,1,1,0.2487,0.2487
+government units connect,Emerging/Unmapped,1,1,0.2485,0.2485
+loss list,Emerging/Unmapped,1,1,0.2473,0.2473
+event thresholds defined,Emerging/Unmapped,1,1,0.2469,0.2469
+tarmacs reduced life,Emerging/Unmapped,1,1,0.2453,0.2453
+industrial case study,Emerging/Unmapped,1,1,0.2452,0.2452
+recovery paths specified,Recoverability,1,1,0.2444,0.2444
+main european regulations,Emerging/Unmapped,1,1,0.2429,0.2429
+methods assessment metrics,Emerging/Unmapped,1,1,0.2417,0.2417
+responsible,Emerging/Unmapped,1,1,0.24,0.24
+oversight activities modes,Emerging/Unmapped,1,1,0.2395,0.2395
+goal analysis criteria,Emerging/Unmapped,1,1,0.2365,0.2365
+transportlinks opened based,Emerging/Unmapped,1,1,0.2356,0.2356
+metrics,Emerging/Unmapped,1,1,0.2318,0.2318
+airport closures,Emerging/Unmapped,1,1,0.2288,0.2288
+society kobe,Emerging/Unmapped,1,1,0.2284,0.2284
+information,Emerging/Unmapped,1,1,0.2271,0.2271
+justice,Equity,1,1,0.2271,0.2271
+influence,Emerging/Unmapped,1,1,0.2261,0.2261
+critical,Emerging/Unmapped,1,1,0.2249,0.2249
+iso 55002,Emerging/Unmapped,1,1,0.2249,0.2249
+values contractual,Emerging/Unmapped,1,1,0.224,0.224
+communities results analysis,Emerging/Unmapped,1,1,0.2227,0.2227
+crashes ability,Emerging/Unmapped,1,1,0.2227,0.2227
+assessment,Emerging/Unmapped,1,1,0.221,0.221
+growth human welfare,Emerging/Unmapped,1,1,0.2197,0.2197
+dros systematic,Emerging/Unmapped,1,1,0.2195,0.2195
+states lacks standardized,Emerging/Unmapped,1,1,0.2182,0.2182
+participation plans accessible,Accessibility,1,1,0.2172,0.2172
+capacity response resource,Capacity,1,1,0.2164,0.2164
+capacity response resource,Responsiveness,1,1,0.2164,0.2164
+available tools resources,Emerging/Unmapped,1,1,0.2144,0.2144
+deteriorate crm,Emerging/Unmapped,1,1,0.2144,0.2144
+potential actions taken,Emerging/Unmapped,1,1,0.2133,0.2133
+lean,Emerging/Unmapped,1,1,0.2131,0.2131
+patterns social media,Emerging/Unmapped,1,1,0.2129,0.2129
+bus rescheduling problems,Emerging/Unmapped,1,1,0.2124,0.2124
+property identifiable responds,Emerging/Unmapped,1,1,0.2123,0.2123
+networks varying,Emerging/Unmapped,1,1,0.2113,0.2113
+budget roadway,Emerging/Unmapped,1,1,0.2106,0.2106
+includes threats terrorist,Emerging/Unmapped,1,1,0.2066,0.2066
+construction delays hong,Emerging/Unmapped,1,1,0.2064,0.2064
+community federal state,Emerging/Unmapped,1,1,0.2046,0.2046
+assets method evaluating,Emerging/Unmapped,1,1,0.202,0.202
+definitions,Emerging/Unmapped,1,1,0.2018,0.2018
+preparedness response mechanisms,Responsiveness,1,1,0.2013,0.2013
+networks functionality delaying,Functionality,1,1,0.2002,0.2002
+industrial settings leads,Emerging/Unmapped,1,1,0.1993,0.1993
+rate tn,Emerging/Unmapped,1,1,0.1984,0.1984
+model prioritizes preparedness,Emerging/Unmapped,1,1,0.1983,0.1983
+simply combines probability,Emerging/Unmapped,1,1,0.198,0.198
+populations,Equity,1,1,0.1978,0.1978
+activities reduce human,Emerging/Unmapped,1,1,0.1974,0.1974
+engineering georgia,Emerging/Unmapped,1,1,0.1972,0.1972
+years caused extreme,Emerging/Unmapped,1,1,0.1962,0.1962
+definition rurality provided,Emerging/Unmapped,1,1,0.1942,0.1942
+concern weight,Emerging/Unmapped,1,1,0.1938,0.1938
+management shifted,Emerging/Unmapped,1,1,0.1935,0.1935
+operable supermarkets meant,Emerging/Unmapped,1,1,0.1932,0.1932
+annualized reported rdr,Emerging/Unmapped,1,1,0.1928,0.1928
+decision,Emerging/Unmapped,1,1,0.1918,0.1918
+scale corresponding transformation,Emerging/Unmapped,1,1,0.1916,0.1916
+susceptibility absorption adaptation,Adaptability,1,1,0.1916,0.1916
+based management disenfranchise,Emerging/Unmapped,1,1,0.1897,0.1897
+public order operational,Operational Performance,1,1,0.1894,0.1894
+restoration time restoration,Restoration Speed,1,1,0.1877,0.1877
+repair cost time,Emerging/Unmapped,1,1,0.1871,0.1871
+thefinalplanningphaseisthelong termadaptationandormitigationactivities,Adaptability,1,1,0.1868,0.1868
+gilbert 1988 hurricanes,Emerging/Unmapped,1,1,0.186,0.186
+11203 lee roadmap,Emerging/Unmapped,1,1,0.1859,0.1859
+aequilibrae used forecast,Emerging/Unmapped,1,1,0.1857,0.1857
+synonym return restore,Emerging/Unmapped,1,1,0.1848,0.1848
+growth increased,Emerging/Unmapped,1,1,0.1841,0.1841
+tornadoes step,Emerging/Unmapped,1,1,0.1836,0.1836
+daily life economic,Emerging/Unmapped,1,1,0.1835,0.1835
+picking children day,Emerging/Unmapped,1,1,0.1832,0.1832
+panel ensure,Emerging/Unmapped,1,1,0.183,0.183
+measurement,Emerging/Unmapped,1,1,0.1806,0.1806
+presidential,Emerging/Unmapped,1,1,0.1806,0.1806
+absorb changes environment,Emerging/Unmapped,1,1,0.1802,0.1802
+negotiated,Emerging/Unmapped,1,1,0.1797,0.1797
+prepare adapt major,Emerging/Unmapped,1,1,0.1794,0.1794
+universal grounded common,Emerging/Unmapped,1,1,0.1791,0.1791
+knowledge management,Emerging/Unmapped,1,1,0.1773,0.1773
+diversity using ecological,Emerging/Unmapped,1,1,0.1772,0.1772
+life cycle response,Responsiveness,1,1,0.1772,0.1772
+management organizational,Emerging/Unmapped,1,1,0.1755,0.1755
+metricsofperformanceacross,Emerging/Unmapped,1,1,0.1752,0.1752
+resourceful,Emerging/Unmapped,1,1,0.1751,0.1751
+human,Emerging/Unmapped,1,1,0.1737,0.1737
+vht vmt crashes,Emerging/Unmapped,1,1,0.1734,0.1734
+andearthworkswithanestimatedbudgetof,Emerging/Unmapped,1,1,0.1732,0.1732
+planning considers meet,Emerging/Unmapped,1,1,0.172,0.172
+poverty immigrants racialized,Emerging/Unmapped,1,1,0.1708,0.1708
+loss use continuous,Emerging/Unmapped,1,1,0.1703,0.1703
+weeks examples main,Emerging/Unmapped,1,1,0.1699,0.1699
+stability domain relates,Emerging/Unmapped,1,1,0.1697,0.1697
+8r principle termed,Emerging/Unmapped,1,1,0.1693,0.1693
+options,Emerging/Unmapped,1,1,0.1687,0.1687
+different phases preparedness,Emerging/Unmapped,1,1,0.1684,0.1684
+flow network 360,Emerging/Unmapped,1,1,0.1679,0.1679
+institutional frameworks creating,Emerging/Unmapped,1,1,0.1669,0.1669
+shelter slept cars,Emerging/Unmapped,1,1,0.1655,0.1655
+duration performance deviations,Emerging/Unmapped,1,1,0.1653,0.1653
+events,Emerging/Unmapped,1,1,0.1645,0.1645
+recovery,Flexibility,1,1,0.1645,0.1645
+recovery,Recoverability,1,1,0.1645,0.1645
+recovery,Restoration Speed,1,1,0.1645,0.1645
+recovery,Economic Recovery,1,1,0.1645,0.1645
+recovery,Cost-effectiveness,1,1,0.1645,0.1645
+recovery,Resource Availability,1,1,0.1645,0.1645
+recovery,Sustainability,1,1,0.1645,0.1645
+price index ncei,Emerging/Unmapped,1,1,0.164,0.164
+electric power telecommunication,Emerging/Unmapped,1,1,0.1638,0.1638
+project international day,Emerging/Unmapped,1,1,0.1638,0.1638
+entity concrete mappable,Emerging/Unmapped,1,1,0.1635,0.1635
+disseminated,Emerging/Unmapped,1,1,0.163,0.163
+sys tem event,Emerging/Unmapped,1,1,0.1624,0.1624
+transformation different,Emerging/Unmapped,1,1,0.1621,0.1621
+1980 april 2024,Emerging/Unmapped,1,1,0.1601,0.1601
+spe framework developed,Emerging/Unmapped,1,1,0.1594,0.1594
+challenges design development,Emerging/Unmapped,1,1,0.1588,0.1588
+2018 sherrieb,Emerging/Unmapped,1,1,0.1568,0.1568
+validation fairness aware,Equity,1,1,0.1567,0.1567
+essential prerequisite staying,Emerging/Unmapped,1,1,0.1561,0.1561
+create urgent need,Emerging/Unmapped,1,1,0.1552,0.1552
+highhighmediumlowrobustness100 totaldisruptiont61t51t41t31t21t0 t1,Robustness,1,1,0.1552,0.1552
+enable service providers,Emerging/Unmapped,1,1,0.154,0.154
+framework sees,Emerging/Unmapped,1,1,0.154,0.154
+performance,Functionality,1,1,0.1534,0.1534
+performance,Operational Performance,1,1,0.1534,0.1534
+performance,Serviceability,1,1,0.1534,0.1534
+application indispensable,Emerging/Unmapped,1,1,0.1528,0.1528
+inherent limits uncertainty,Emerging/Unmapped,1,1,0.1526,0.1526
+maps vsm key,Emerging/Unmapped,1,1,0.1526,0.1526
+hurricane approaching specific,Emerging/Unmapped,1,1,0.1525,0.1525
+index,Emerging/Unmapped,1,1,0.1525,0.1525
+prolonged recovery periods,Recoverability,1,1,0.1524,0.1524
+adapt changing conditions,Emerging/Unmapped,1,1,0.1519,0.1519
+indicating higher functionality,Functionality,1,1,0.1515,0.1515
+malfunctions disturbances broken,Emerging/Unmapped,1,1,0.1513,0.1513
+operations,Operational Performance,1,1,0.151,0.151
+transformative factor,Emerging/Unmapped,1,1,0.1502,0.1502
+main types analyses,Emerging/Unmapped,1,1,0.1501,0.1501
+recovery recovery progress,Recoverability,1,1,0.1495,0.1495
+intuitively weick sutcliffe,Emerging/Unmapped,1,1,0.1492,0.1492
+different operational physical,Operational Performance,1,1,0.1491,0.1491
+exploiting internet ioe,Emerging/Unmapped,1,1,0.149,0.149
+communities deloitte access,Accessibility,1,1,0.1472,0.1472
+preservation restoration essential,Emerging/Unmapped,1,1,0.1458,0.1458
+responsiveness,Responsiveness,1,1,0.1446,0.1446
+environments open loop,Emerging/Unmapped,1,1,0.144,0.144
+aim minimizing rvalue,Emerging/Unmapped,1,1,0.1439,0.1439
+decision nodes define,Emerging/Unmapped,1,1,0.1424,0.1424
+advancements sensing technologies,Emerging/Unmapped,1,1,0.1422,0.1422
+protection xi effective,Emerging/Unmapped,1,1,0.1421,0.1421
+shared,Emerging/Unmapped,1,1,0.142,0.142
+warning health tips,Emerging/Unmapped,1,1,0.1415,0.1415
+provide dimension conceptualize,Emerging/Unmapped,1,1,0.1404,0.1404
+historical data using,Emerging/Unmapped,1,1,0.1401,0.1401
+flood snow,Emerging/Unmapped,1,1,0.14,0.14
+long term,Emerging/Unmapped,1,1,0.1399,0.1399
+area flood zones,Emerging/Unmapped,1,1,0.1395,0.1395
+dynamics multisector,Emerging/Unmapped,1,1,0.139,0.139
+14 power systems,Emerging/Unmapped,1,1,0.1383,0.1383
+applied,Emerging/Unmapped,1,1,0.1368,0.1368
+best practices guidance,Emerging/Unmapped,1,1,0.1356,0.1356
+power security,Emerging/Unmapped,1,1,0.1353,0.1353
+dots mpos varies,Emerging/Unmapped,1,1,0.1338,0.1338
+2020 instance unprogrammed,Emerging/Unmapped,1,1,0.1333,0.1333
+probability distributions hardly,Emerging/Unmapped,1,1,0.1329,0.1329
+yao 2023 argue,Emerging/Unmapped,1,1,0.1324,0.1324
+multisector,Emerging/Unmapped,1,1,0.1322,0.1322
+relief,Emerging/Unmapped,1,1,0.1312,0.1312
+delays 53 54,Emerging/Unmapped,1,1,0.1307,0.1307
+guidelines gaps,Emerging/Unmapped,1,1,0.1302,0.1302
+unable return,Emerging/Unmapped,1,1,0.1299,0.1299
+handle snow witnessed,Emerging/Unmapped,1,1,0.1296,0.1296
+stream,Emerging/Unmapped,1,1,0.1294,0.1294
+fails translate,Emerging/Unmapped,1,1,0.1282,0.1282
+federal laws provide,Emerging/Unmapped,1,1,0.1282,0.1282
+total 16 values,Emerging/Unmapped,1,1,0.1271,0.1271
+ready,Emerging/Unmapped,1,1,0.127,0.127
+road network functionality,Functionality,1,1,0.127,0.127
+characteristics specifically analyzed,Emerging/Unmapped,1,1,0.1266,0.1266
+datainputsandprocessing approach requires,Emerging/Unmapped,1,1,0.126,0.126
+meteorological data,Emerging/Unmapped,1,1,0.1248,0.1248
+measures,Emerging/Unmapped,1,1,0.1245,0.1245
+develop mathematical conceptual,Emerging/Unmapped,1,1,0.1241,0.1241
+colocation unknown interdependencies,Emerging/Unmapped,1,1,0.124,0.124
+meanings concept,Emerging/Unmapped,1,1,0.1234,0.1234
+issues considered profile,Emerging/Unmapped,1,1,0.1232,0.1232
+frastructure categories,Emerging/Unmapped,1,1,0.1231,0.1231
+removaltotherepairandrestorationofinfrastructure controlsystems,Emerging/Unmapped,1,1,0.1202,0.1202
+intensity road segment,Emerging/Unmapped,1,1,0.1187,0.1187
+level 95,Emerging/Unmapped,1,1,0.118,0.118
+parameters quantify performance,Emerging/Unmapped,1,1,0.1178,0.1178
+complexities identities,Emerging/Unmapped,1,1,0.1177,0.1177
+climatological hydro meteorological,Emerging/Unmapped,1,1,0.1169,0.1169
+holling definition,Emerging/Unmapped,1,1,0.1169,0.1169
+result commuters deemed,Emerging/Unmapped,1,1,0.1169,0.1169
+meding 2008 authors,Emerging/Unmapped,1,1,0.1168,0.1168
+stream 2011 service,Emerging/Unmapped,1,1,0.1168,0.1168
+does reflect,Emerging/Unmapped,1,1,0.1159,0.1159
+complex multi dimensional,Emerging/Unmapped,1,1,0.1154,0.1154
+wave asset impassable,Emerging/Unmapped,1,1,0.1154,0.1154
+pgadi limit state,Emerging/Unmapped,1,1,0.1145,0.1145
+guide life 665,Emerging/Unmapped,1,1,0.114,0.114
+model,Emerging/Unmapped,1,1,0.1135,0.1135
+cost neda 2009,Emerging/Unmapped,1,1,0.1134,0.1134
+0000 0001,Emerging/Unmapped,1,1,0.1121,0.1121
+damage interrupt prime,Emerging/Unmapped,1,1,0.112,0.112
+elderly population exhibits,Emerging/Unmapped,1,1,0.1097,0.1097
+enhancement,Emerging/Unmapped,1,1,0.1082,0.1082
+cost increase acceptable,Emerging/Unmapped,1,1,0.108,0.108
+integration requires recognizing,Emerging/Unmapped,1,1,0.1072,0.1072
+response format,Responsiveness,1,1,0.1062,0.1062
+author jman281,Emerging/Unmapped,1,1,0.1048,0.1048
+weather,Emerging/Unmapped,1,1,0.1044,0.1044
+framework requirements big,Emerging/Unmapped,1,1,0.1042,0.1042
+transboundary character,Emerging/Unmapped,1,1,0.1039,0.1039
+central vehicle,Emerging/Unmapped,1,1,0.1027,0.1027
+service specified time,Emerging/Unmapped,1,1,0.1024,0.1024
+riverine versus,Emerging/Unmapped,1,1,0.1023,0.1023
+terms recovery timeframes,Recoverability,1,1,0.1023,0.1023
+used elastic,Emerging/Unmapped,1,1,0.0991,0.0991
+51 interviewees interviewees,Emerging/Unmapped,1,1,0.0973,0.0973
+demand supply imbalance,Emerging/Unmapped,1,1,0.0967,0.0967
+111 key limitations,Emerging/Unmapped,1,1,0.0966,0.0966
+weather conditions time,Emerging/Unmapped,1,1,0.0965,0.0965
+forces means,Emerging/Unmapped,1,1,0.0954,0.0954
+define measure capture,Emerging/Unmapped,1,1,0.0951,0.0951
+geography national vs,Emerging/Unmapped,1,1,0.095,0.095
+calls actionable,Emerging/Unmapped,1,1,0.0947,0.0947
+logic mapping benefit,Emerging/Unmapped,1,1,0.0945,0.0945
+types natural,Emerging/Unmapped,1,1,0.0944,0.0944
+likelihood failure,Emerging/Unmapped,1,1,0.0941,0.0941
+offer social benefits,Emerging/Unmapped,1,1,0.0932,0.0932
+zones optimally solved,Emerging/Unmapped,1,1,0.0932,0.0932
+placement,Emerging/Unmapped,1,1,0.0923,0.0923
+reporting,Emerging/Unmapped,1,1,0.0919,0.0919
+tu er,Emerging/Unmapped,1,1,0.0916,0.0916
+centered,Emerging/Unmapped,1,1,0.0913,0.0913
+topological measures functional,Emerging/Unmapped,1,1,0.0905,0.0905
+seaboard results increased,Emerging/Unmapped,1,1,0.0902,0.0902
+37 developed novel,Emerging/Unmapped,1,1,0.0895,0.0895
+change 22 access,Accessibility,1,1,0.0895,0.0895
+concepts,Emerging/Unmapped,1,1,0.0876,0.0876
+focus enabling,Emerging/Unmapped,1,1,0.0874,0.0874
+kristin lewis kristin,Emerging/Unmapped,1,1,0.0874,0.0874
+practices explicitly address,Emerging/Unmapped,1,1,0.0872,0.0872
+locomotives ships aircraft,Emerging/Unmapped,1,1,0.0871,0.0871
+return periods,Emerging/Unmapped,1,1,0.086,0.086
+choi 2013 wilkinson,Emerging/Unmapped,1,1,0.0851,0.0851
+practice,Emerging/Unmapped,1,1,0.0837,0.0837
+meaning scientifically clarify,Emerging/Unmapped,1,1,0.0834,0.0834
+sizes insufficient,Emerging/Unmapped,1,1,0.0834,0.0834
+assets listed options,Emerging/Unmapped,1,1,0.0831,0.0831
+available online,Emerging/Unmapped,1,1,0.0828,0.0828
+northeastern united states,Emerging/Unmapped,1,1,0.0827,0.0827
+control implemented monitor,Emerging/Unmapped,1,1,0.0823,0.0823
+analysis,Emerging/Unmapped,1,1,0.0822,0.0822
+keywords tokens related,Emerging/Unmapped,1,1,0.081,0.081
+adding backup power,Emerging/Unmapped,1,1,0.0806,0.0806
+runs improve fit,Emerging/Unmapped,1,1,0.0801,0.0801
+summative review definition,Emerging/Unmapped,1,1,0.0801,0.0801
+criticism perceived inability,Emerging/Unmapped,1,1,0.0799,0.0799
+columns characterize intensity,Emerging/Unmapped,1,1,0.0785,0.0785
+docks occurrence,Emerging/Unmapped,1,1,0.0766,0.0766
+united states gdp,Emerging/Unmapped,1,1,0.0759,0.0759
+excel investment programming,Emerging/Unmapped,1,1,0.0753,0.0753
+circle information,Emerging/Unmapped,1,1,0.0752,0.0752
+vibrancy safety,Safety,1,1,0.0747,0.0747
+elements using,Emerging/Unmapped,1,1,0.0735,0.0735
+authors developed overarching,Emerging/Unmapped,1,1,0.0721,0.0721
+2019 2023 small,Emerging/Unmapped,1,1,0.0718,0.0718
+density high altitudes,Emerging/Unmapped,1,1,0.071,0.071
+unlimited number taxa,Emerging/Unmapped,1,1,0.0705,0.0705
+following strong perturbation,Emerging/Unmapped,1,1,0.0702,0.0702
+intuition proof concept,Emerging/Unmapped,1,1,0.0702,0.0702
+2020 102178 surprising,Emerging/Unmapped,1,1,0.0686,0.0686
+speakers mobile dependent,Emerging/Unmapped,1,1,0.0686,0.0686
+rarely,Emerging/Unmapped,1,1,0.068,0.068
+natural gas liquid,Emerging/Unmapped,1,1,0.0678,0.0678
+parameter conveniently order,Emerging/Unmapped,1,1,0.0678,0.0678
+instead deploying advanced,Emerging/Unmapped,1,1,0.0674,0.0674
+jasour 2022 studies,Emerging/Unmapped,1,1,0.0673,0.0673
+michael explain think,Emerging/Unmapped,1,1,0.0669,0.0669
+opinion authors,Emerging/Unmapped,1,1,0.0668,0.0668
+prohibitively,Emerging/Unmapped,1,1,0.0664,0.0664
+16 917 39,Emerging/Unmapped,1,1,0.0663,0.0663
+seawater temperature,Emerging/Unmapped,1,1,0.0649,0.0649
+making,Emerging/Unmapped,1,1,0.0644,0.0644
+especially suffer negative,Emerging/Unmapped,1,1,0.0636,0.0636
+simple definition,Emerging/Unmapped,1,1,0.0622,0.0622
+notes imported nvivo,Emerging/Unmapped,1,1,0.0593,0.0593
+term,Sustainability,1,1,0.0593,0.0593
+change ipcc,Emerging/Unmapped,1,1,0.058,0.058
+implementing fixed value,Emerging/Unmapped,1,1,0.0566,0.0566
+repair cost usd,Emerging/Unmapped,1,1,0.0554,0.0554
+typically cost,Emerging/Unmapped,1,1,0.0551,0.0551
+chi minh city,Emerging/Unmapped,1,1,0.0547,0.0547
+modeling,Emerging/Unmapped,1,1,0.0544,0.0544
+sandbags reduce,Emerging/Unmapped,1,1,0.0538,0.0538
+2015 authors published,Emerging/Unmapped,1,1,0.0537,0.0537
+dynamics,Emerging/Unmapped,1,1,0.0535,0.0535
+close mayada,Emerging/Unmapped,1,1,0.0534,0.0534
+need concentrated quadrant,Emerging/Unmapped,1,1,0.0519,0.0519
+30 oct,Emerging/Unmapped,1,1,0.0511,0.0511
+digital twin technology,Emerging/Unmapped,1,1,0.0511,0.0511
+sections initial phase,Emerging/Unmapped,1,1,0.0503,0.0503
+likewise,Emerging/Unmapped,1,1,0.0498,0.0498
+attributes integrated dimensions,Emerging/Unmapped,1,1,0.0493,0.0493
+ij matrix element,Emerging/Unmapped,1,1,0.0491,0.0491
+reviews focusing translation,Emerging/Unmapped,1,1,0.0483,0.0483
+frequency duration,Emerging/Unmapped,1,1,0.0478,0.0478
+face meetings interviews,Emerging/Unmapped,1,1,0.0475,0.0475
+reflected lrtp form,Emerging/Unmapped,1,1,0.0471,0.0471
+connecting nodes network,Emerging/Unmapped,1,1,0.0456,0.0456
+eid el,Emerging/Unmapped,1,1,0.0449,0.0449
+management scholars pay,Emerging/Unmapped,1,1,0.0446,0.0446
+literature reviews used,Emerging/Unmapped,1,1,0.044,0.044
+divide distinct phases,Emerging/Unmapped,1,1,0.0426,0.0426
+light designing relief,Emerging/Unmapped,1,1,0.0415,0.0415
+tion domain lack,Emerging/Unmapped,1,1,0.0402,0.0402
+measure distribution,Emerging/Unmapped,1,1,0.0401,0.0401
+exposed spread disease,Emerging/Unmapped,1,1,0.0399,0.0399
+probability functional,Emerging/Unmapped,1,1,0.0397,0.0397
+install expensive highimpact,Emerging/Unmapped,1,1,0.0392,0.0392
+case,Emerging/Unmapped,1,1,0.039,0.039
+underlies multiattribute models,Emerging/Unmapped,1,1,0.0377,0.0377
+method defining key,Emerging/Unmapped,1,1,0.0367,0.0367
+37 41 43,Emerging/Unmapped,1,1,0.0356,0.0356
+make zimbabwe swim,Emerging/Unmapped,1,1,0.035,0.035
+china airport,Emerging/Unmapped,1,1,0.0344,0.0344
+create path dependencies,Emerging/Unmapped,1,1,0.0319,0.0319
+compared soil types,Emerging/Unmapped,1,1,0.0313,0.0313
+dimension contrasts openness,Emerging/Unmapped,1,1,0.0305,0.0305
+dashboard shown,Emerging/Unmapped,1,1,0.0304,0.0304
+reduction,Safety,1,1,0.0282,0.0282
+reduction,Pollution Prevention,1,1,0.0282,0.0282
+natural normal ability,Emerging/Unmapped,1,1,0.0274,0.0274
+providing output integrates,Emerging/Unmapped,1,1,0.0273,0.0273
+distribution mean,Emerging/Unmapped,1,1,0.0255,0.0255
+model form specified,Emerging/Unmapped,1,1,0.023,0.023
+timescale capture,Emerging/Unmapped,1,1,0.0223,0.0223
+win wi adaptiv,Emerging/Unmapped,1,1,0.0219,0.0219
+categories second columns,Emerging/Unmapped,1,1,0.0207,0.0207
+gohary 2016 issue,Emerging/Unmapped,1,1,0.0188,0.0188
+operations operations exclude,Operational Performance,1,1,0.0168,0.0168
+perceived performance lower,Emerging/Unmapped,1,1,0.0162,0.0162
+robust view range,Robustness,1,1,0.0147,0.0147
+1201 9781003429258 49,Emerging/Unmapped,1,1,0.013,0.013
+tool does incorporate,Emerging/Unmapped,1,1,0.013,0.013
+papachrysanthou gritzalis impacts,Emerging/Unmapped,1,1,0.0122,0.0122
+record 2680 instances,Emerging/Unmapped,1,1,0.0122,0.0122
+boolean operators,Emerging/Unmapped,1,1,0.0116,0.0116
+13 01 2022,Emerging/Unmapped,1,1,0.01,0.01
+identification convergences divergences,Emerging/Unmapped,1,1,0.0065,0.0065
+frost depth assess,Emerging/Unmapped,1,1,0.006,0.006
+season consecutive,Emerging/Unmapped,1,1,0.0057,0.0057
+review included scopus,Emerging/Unmapped,1,1,0.0037,0.0037
+terms gender difference,Emerging/Unmapped,1,1,0.0026,0.0026
+rendition,Emerging/Unmapped,1,1,0.0004,0.0004
+systems water electricity,Emerging/Unmapped,1,1,-0.0004,-0.0004
+universally accepted definition,Emerging/Unmapped,1,1,-0.0013,-0.0013
+study,Emerging/Unmapped,1,1,-0.0024,-0.0024
+hussain masood,Emerging/Unmapped,1,1,-0.0046,-0.0046
+addition definition,Emerging/Unmapped,1,1,-0.0065,-0.0065
+arnstein ladder originally,Emerging/Unmapped,1,1,-0.0115,-0.0115
+papagiannidis 26 synthesize,Emerging/Unmapped,1,1,-0.0153,-0.0153
+comma separated format,Emerging/Unmapped,1,1,-0.0158,-0.0158
+choose substitute mode,Emerging/Unmapped,1,1,-0.017,-0.017
+46 73 34,Emerging/Unmapped,1,1,-0.0185,-0.0185
+manage outputs client,Emerging/Unmapped,1,1,-0.0254,-0.0254
+subsections review article,Emerging/Unmapped,1,1,-0.0271,-0.0271
+affiliations demographic attributes,Emerging/Unmapped,1,1,-0.0289,-0.0289
+erosion associated,Emerging/Unmapped,1,1,-0.0299,-0.0299
+abdelmagid status racial,Emerging/Unmapped,1,1,-0.031,-0.031
+plays vital,Emerging/Unmapped,1,1,-0.0312,-0.0312
+change focus,Emerging/Unmapped,1,1,-0.0381,-0.0381
+jrenne fau,Emerging/Unmapped,1,1,-0.0446,-0.0446
+highlight traditional,Emerging/Unmapped,1,1,-0.0529,-0.0529
+includingcommuting,Emerging/Unmapped,1,1,-0.0623,-0.0623
+slow onset events,Emerging/Unmapped,1,1,-0.0769,-0.0769
+cost neutral painting,Emerging/Unmapped,1,1,-0.078,-0.078
+rendition selected choice,Emerging/Unmapped,1,1,-0.1293,-0.1293
+accessibility urban planning,Accessibility,0,0,0.6467,0.6467
+resilience transport networks,Resilience,0,0,0.638,0.638
+equity accessibility urban,Accessibility,0,0,0.6319,0.6319
+equity accessibility urban,Equity,0,0,0.6319,0.6319
+networks equity accessibility,Accessibility,0,0,0.5909,0.5909
+networks equity accessibility,Equity,0,0,0.5909,0.5909
+transport networks equity,Equity,0,0,0.5875,0.5875
+resilience transport,Resilience,0,0,0.5758,0.5758
+planning natural hazards,Emerging/Unmapped,0,0,0.4939,0.4939
+urban planning,Emerging/Unmapped,0,0,0.4695,0.4695
+transport networks,Emerging/Unmapped,0,0,0.4653,0.4653
+equity accessibility,Accessibility,0,0,0.4633,0.4633
+equity accessibility,Equity,0,0,0.4633,0.4633
+transport,Connectivity,0,0,0.4297,0.4297
+transport,Accessibility,0,0,0.4297,0.4297
+transport,Mobility,0,0,0.4297,0.4297
+transport,Resilience,0,0,0.4297,0.4297
+transport,Serviceability,0,0,0.4297,0.4297
+networks equity,Equity,0,0,0.4016,0.4016
+planning natural,Emerging/Unmapped,0,0,0.2805,0.2805
+networks,Emerging/Unmapped,0,0,0.2492,0.2492
+equity,Equity,0,0,0.1947,0.1947

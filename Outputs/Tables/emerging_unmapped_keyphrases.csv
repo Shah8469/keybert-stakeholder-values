@@ -1,0 +1,21 @@
+phrase,category,doc_count,occurrence_count,mean_score,total_score
+management,Emerging/Unmapped,5,5,0.20212,1.0106
+climate change,Emerging/Unmapped,3,3,0.43039999999999995,1.2912
+pavements,Emerging/Unmapped,2,2,0.54915,1.0983
+disasters,Emerging/Unmapped,2,2,0.54285,1.0857
+hazards,Emerging/Unmapped,2,2,0.47955000000000003,0.9591000000000001
+value,Emerging/Unmapped,2,2,0.26995,0.5399
+asset,Emerging/Unmapped,2,2,0.2095,0.419
+systems,Emerging/Unmapped,2,2,0.19590000000000002,0.39180000000000004
+change,Emerging/Unmapped,2,2,0.14800000000000002,0.29600000000000004
+climate change transportation,Emerging/Unmapped,1,1,0.8577,0.8577
+infrastructure pavements,Emerging/Unmapped,1,1,0.8457,0.8457
+transportation dots hazards,Emerging/Unmapped,1,1,0.8182,0.8182
+dots hazards disasters,Emerging/Unmapped,1,1,0.813,0.813
+lifelines social needs,Emerging/Unmapped,1,1,0.7812,0.7812
+infrastructure climate change,Emerging/Unmapped,1,1,0.7474,0.7474
+stakeholders community disaster,Emerging/Unmapped,1,1,0.7454,0.7454
+change transportation sector,Emerging/Unmapped,1,1,0.743,0.743
+disaster reconstruction projects,Emerging/Unmapped,1,1,0.7374,0.7374
+crisis decisions ai,Emerging/Unmapped,1,1,0.7348,0.7348
+dots hazards,Emerging/Unmapped,1,1,0.7047,0.7047

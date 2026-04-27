@@ -1,0 +1,139 @@
+category,phrase,doc_count,mean_score,relevant_manual_review
+Emerging/Unmapped,management,5,0.20212,0
+Emerging/Unmapped,climate change,3,0.4304,1
+Emerging/Unmapped,pavements,2,0.54915,0
+Emerging/Unmapped,disasters,2,0.54285,0
+Emerging/Unmapped,hazards,2,0.47955,0
+Emerging/Unmapped,value,2,0.26995,0
+Emerging/Unmapped,asset,2,0.2095,0
+Emerging/Unmapped,systems,2,0.1959,0
+Emerging/Unmapped,change,2,0.148,0
+Emerging/Unmapped,climate change transportation,1,0.8577,1
+Resilience,resilience,10,0.551236364,1
+Resilience,transportation,6,0.407266667,0
+Resilience,infrastructure,3,0.385633333,0
+Resilience,transportation systems resilience,2,0.80725,1
+Resilience,resilience equity,2,0.6231,1
+Resilience,network resilience,2,0.5614,1
+Resilience,resilient,2,0.49295,1
+Resilience,community,2,0.24335,1
+Resilience,resilience lifelines social,1,0.9412,1
+Resilience,pavements sustainable resilient,1,0.9262,1
+Sustainability,resilience,10,0.551236364,1
+Sustainability,climate,2,0.3757,1
+Sustainability,adaptation,2,0.3045,1
+Sustainability,pavements sustainable resilient,1,0.9262,1
+Sustainability,resilient pavements sustainable,1,0.9255,1
+Sustainability,sustainable resilient pavements,1,0.919,1
+Sustainability,infrastructure pavements sustainable,1,0.9081,1
+Sustainability,pavements sustainable pavements,1,0.8929,1
+Sustainability,sustainable pavements,1,0.8711,1
+Sustainability,pavements sustainable,1,0.8657,1
+Adaptability,climate,2,0.3757,1
+Adaptability,adaptation,2,0.3045,1
+Adaptability,transportation sector adaptation,1,0.8086,1
+Adaptability,sector adaptation options,1,0.6109,1
+Adaptability,adaptation urban transportation,1,0.582,1
+Adaptability,resilience climate adaptation,1,0.5603,1
+Adaptability,sector adaptation,1,0.5471,1
+Adaptability,climate adaptation asset,1,0.5149,1
+Adaptability,adaptation options,1,0.5052,1
+Adaptability,adaptation asset management,1,0.4228,1
+Accessibility,transportation,6,0.407266667,0
+Accessibility,vulnerability index accessibility,1,0.7372,1
+Accessibility,accessibility index reliability,1,0.6274,1
+Accessibility,accessibility index,1,0.4966,1
+Accessibility,index accessibility index,1,0.4801,1
+Accessibility,accessibility,1,0.37525,1
+Accessibility,road,1,0.3388,0
+Accessibility,public,1,0.298,0
+Accessibility,participation plans accessible,1,0.2172,1
+Accessibility,communities deloitte access,1,0.1472,1
+Equity,resilience equity,2,0.6231,1
+Equity,resilience equity social,1,0.6905,1
+Equity,resilience vulnerable populations,1,0.6598,1
+Equity,vulnerability,1,0.4731,1
+Equity,social,1,0.4048,0
+Equity,equity human,1,0.398,1
+Equity,justice asset management,1,0.3832,1
+Equity,equity social,1,0.381,1
+Equity,social justice,1,0.3711,1
+Equity,ai,1,0.3686,0
+Recoverability,recovery infrastructure resilience,1,0.6637,1
+Recoverability,disaster recovery infrastructure,1,0.6396,1
+Recoverability,responsiveness recoverability placement,1,0.428,1
+Recoverability,recoverability,1,0.4258,1
+Recoverability,disaster,1,0.3998,0
+Recoverability,recovery facing interruptions,1,0.2998,1
+Recoverability,recovery paths specified,1,0.2444,1
+Recoverability,recovery,1,0.1645,1
+Recoverability,prolonged recovery periods,1,0.1524,1
+Recoverability,recovery recovery progress,1,0.1495,1
+Economic Continuity,resilience,10,0.551236364,1
+Economic Continuity,ai,1,0.3686,0
+Responsiveness,responsiveness disaster resilience,1,0.6358,1
+Responsiveness,reliability robustness responsiveness,1,0.5143,1
+Responsiveness,responsiveness recoverability placement,1,0.428,1
+Responsiveness,kpi responsiveness disaster,1,0.3648,1
+Responsiveness,capacity response resource,1,0.2164,1
+Responsiveness,preparedness response mechanisms,1,0.2013,1
+Responsiveness,life cycle response,1,0.1772,1
+Responsiveness,responsiveness,1,0.1446,1
+Responsiveness,response format,1,0.1062,1
+Operational Performance,network,2,0.16595,0
+Operational Performance,disaster resilient operations,1,0.6419,1
+Operational Performance,operations management lean,1,0.4938,1
+Operational Performance,public order operational,1,0.1894,1
+Operational Performance,performance,1,0.1534,1
+Operational Performance,operations,1,0.151,1
+Operational Performance,different operational physical,1,0.1491,1
+Operational Performance,operations operations exclude,1,0.0168,1
+Safety,disasters risk reduction,1,0.6473,1
+Safety,risk reduction,1,0.3453,1
+Safety,risk,1,0.3351,1
+Safety,public,1,0.298,0
+Safety,vibrancy safety,1,0.0747,1
+Safety,reduction,1,0.0282,1
+Functionality,network,2,0.16595,0
+Functionality,networks functionality delaying,1,0.2002,1
+Functionality,performance,1,0.1534,1
+Functionality,indicating higher functionality,1,0.1515,1
+Functionality,road network functionality,1,0.127,1
+Robustness,network,2,0.16595,0
+Robustness,reliability robustness responsiveness,1,0.5143,1
+Robustness,robustness,1,0.3223,1
+Robustness,highhighmediumlowrobustness100 totaldisruptiont61t51t41t31t21t0 t1,1,0.1552,0
+Robustness,robust view range,1,0.0147,1
+Reliability,accessibility index reliability,1,0.6274,1
+Reliability,reliability robustness responsiveness,1,0.5143,1
+Reliability,index reliability,1,0.4323,1
+Reliability,reliability,1,0.4088,1
+Reliability,ness reliability,1,0.3556,1
+Capacity,network,2,0.16595,0
+Capacity,road,1,0.3388,0
+Capacity,capacity response resource,1,0.2164,1
+Redundancy,network,2,0.16595,0
+Redundancy,redundancy resourceful ness,1,0.3957,1
+Redundancy,principal concepts redundancy,1,0.3504,1
+Connectivity,network,2,0.16595,1
+Connectivity,road,1,0.3388,0
+Connectivity,transport,0,0.4297,0
+Restoration Speed,ai,1,0.3686,0
+Restoration Speed,restoration time restoration,1,0.1877,1
+Restoration Speed,recovery,1,0.1645,1
+Mobility,populations mobility vulnerability,1,0.5816,1
+Mobility,mobility,1,0.4197,1
+Mobility,transport,0,0.4297,1
+Serviceability,ai,1,0.3686,0
+Serviceability,performance,1,0.1534,0
+Serviceability,transport,0,0.4297,0
+Flexibility,planning,1,0.3457,1
+Flexibility,recovery,1,0.1645,1
+Pollution Prevention,ai,1,0.3686,0
+Pollution Prevention,reduction,1,0.0282,1
+Resource Availability,ai,1,0.3686,0
+Resource Availability,recovery,1,0.1645,1
+Environmental Protection,natural,2,0.043933333,1
+Cost-effectiveness,recovery,1,0.1645,1
+Economic Recovery,recovery,1,0.1645,1
+Public Health Support,public,1,0.298,0
