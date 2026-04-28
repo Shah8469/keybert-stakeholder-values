@@ -1,21 +1,21 @@
 phrase,category,doc_count,occurrence_count,mean_score,total_score
-management,Emerging/Unmapped,5,5,0.20212,1.0106
-climate change,Emerging/Unmapped,3,3,0.43039999999999995,1.2912
-pavements,Emerging/Unmapped,2,2,0.54915,1.0983
-disasters,Emerging/Unmapped,2,2,0.54285,1.0857
-hazards,Emerging/Unmapped,2,2,0.47955000000000003,0.9591000000000001
-value,Emerging/Unmapped,2,2,0.26995,0.5399
-asset,Emerging/Unmapped,2,2,0.2095,0.419
-systems,Emerging/Unmapped,2,2,0.19590000000000002,0.39180000000000004
-change,Emerging/Unmapped,2,2,0.14800000000000002,0.29600000000000004
-climate change transportation,Emerging/Unmapped,1,1,0.8577,0.8577
-infrastructure pavements,Emerging/Unmapped,1,1,0.8457,0.8457
-transportation dots hazards,Emerging/Unmapped,1,1,0.8182,0.8182
-dots hazards disasters,Emerging/Unmapped,1,1,0.813,0.813
-lifelines social needs,Emerging/Unmapped,1,1,0.7812,0.7812
-infrastructure climate change,Emerging/Unmapped,1,1,0.7474,0.7474
-stakeholders community disaster,Emerging/Unmapped,1,1,0.7454,0.7454
-change transportation sector,Emerging/Unmapped,1,1,0.743,0.743
-disaster reconstruction projects,Emerging/Unmapped,1,1,0.7374,0.7374
-crisis decisions ai,Emerging/Unmapped,1,1,0.7348,0.7348
-dots hazards,Emerging/Unmapped,1,1,0.7047,0.7047
+infrastructure climate change,Emerging/Unmapped,1,1,0.7503,0.7503
+disaster reconstruction projects,Emerging/Unmapped,1,1,0.742,0.742
+ai crisis management,Emerging/Unmapped,1,1,0.7234,0.7234
+disaster impacts,Emerging/Unmapped,1,1,0.7054,0.7054
+disasters stakeholder,Emerging/Unmapped,1,1,0.6942,0.6942
+state disaster impact,Emerging/Unmapped,1,1,0.6366,0.6366
+impacts climate extreme,Emerging/Unmapped,1,1,0.4486,0.4486
+58 pavement performance,Emerging/Unmapped,1,1,0.4181,0.4181
+road assets underwent,Emerging/Unmapped,1,1,0.4038,0.4038
+indonesia event,Emerging/Unmapped,1,1,0.3841,0.3841
+droughts flooding freeze,Emerging/Unmapped,1,1,0.3814,0.3814
+terms disasters fukushima,Emerging/Unmapped,1,1,0.3769,0.3769
+hurricane flood tsunami,Emerging/Unmapped,1,1,0.3639,0.3639
+guidebook transportation agencies,Emerging/Unmapped,1,1,0.352,0.352
+strike breakdown caused,Emerging/Unmapped,1,1,0.346,0.346
+wildfire hazard events,Emerging/Unmapped,1,1,0.327,0.327
+model prioritizes stakeholders,Emerging/Unmapped,1,1,0.3253,0.3253
+toresistand recoverfromadisruptionor disaster,Emerging/Unmapped,1,1,0.3243,0.3243
+earthquakes inevitably deviate,Emerging/Unmapped,1,1,0.3236,0.3236
+use selected lean,Emerging/Unmapped,1,1,0.3184,0.3184

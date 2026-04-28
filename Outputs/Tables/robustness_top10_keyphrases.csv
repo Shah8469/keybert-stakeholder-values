@@ -1,94 +1,54 @@
 paper_id,phrase,score
-1,transportation systems resilience,0.829
-1,definition rurality provided,0.1942
-1,area flood zones,0.1395
-1,characteristics specifically analyzed,0.1266
-1,level 95,0.118
-1,holling definition,0.1169
-1,elderly population exhibits,0.1097
-1,practices explicitly address,0.0872
-1,timescale capture,0.0223
-1,abdelmagid status racial,-0.031
-"ssists """,transportation systems resilience,0.7855
-"ssists """,resilience equity,0.685
-"ssists """,populations mobility vulnerability,0.5816
-"ssists """,mobility,0.4197
-"ssists """,justice asset management,0.3832
-"ssists """,equity social,0.381
-"ssists """,vulnerable,0.3652
-"ssists """,populations,0.1978
-"ssists """,management organizational,0.1755
-"ssists """,systems,0.1479
-2,disaster reconstruction projects,0.7374
-2,postdisaster situations client,0.3595
-2,values contractual,0.224
-2,essential prerequisite staying,0.1561
-2,enable service providers,0.154
-2,meding 2008 authors,0.1168
-2,choi 2013 wilkinson,0.0851
-2,method defining key,0.0367
-2,categories second columns,0.0207
-2,perceived performance lower,0.0162
-"through Lean Transformation""",disaster resilient operations,0.6419
-"through Lean Transformation""",use selected lean,0.3174
-"through Lean Transformation""",performance indicators carried,0.2583
-"through Lean Transformation""",dros systematic,0.2195
-"through Lean Transformation""",transformation different,0.1621
-"through Lean Transformation""",meanings concept,0.1234
-"through Lean Transformation""",framework requirements big,0.1042
-"through Lean Transformation""",management scholars pay,0.0446
-"through Lean Transformation""",light designing relief,0.0415
-"through Lean Transformation""",13 01 2022,0.01
-" review""",responsiveness disaster resilience,0.6358
-" review""",disaster management industrial,0.5772
-" review""",operations management lean,0.4938
-" review""",kpi responsiveness disaster,0.3648
-" review""",stream mapping kpi,0.3373
-" review""",mapping,0.2676
-" review""",transformation value,0.2488
-" review""",relief,0.1312
-" review""",case,0.039
-" review""",study,-0.0024
-4,disaster community resilience,0.6608
-4,causing severe delays,0.279
-4,disproportionately impacted result,0.2587
-4,transportlinks opened based,0.2356
-4,picking children day,0.1832
-4,intensity road segment,0.1187
-4,united states gdp,0.0759
-4,intuition proof concept,0.0702
-4,jasour 2022 studies,0.0673
-4,includingcommuting,-0.0623
-,accessibility urban planning,0.6467
-,resilience transport networks,0.638
-,networks equity accessibility,0.5909
-,transport networks equity,0.5875
-,natural hazards,0.431
-,transport,0.4297
-,urban,0.3079
-,planning natural,0.2805
-,networks,0.2492
-,equity,0.1947
-5,disaster resilience transportation,0.7285
-5,capable accommodating climatic,0.3313
-5,networks functionality delaying,0.2002
-5,institutional frameworks creating,0.1669
-5,yao 2023 argue,0.1324
-5,sizes insufficient,0.0834
-5,sections initial phase,0.0503
-5,identification convergences divergences,0.0065
-5,review included scopus,0.0037
-5,highlight traditional,-0.0529
-"inclusi""",infrastructure resilience climate,0.7738
-"inclusi""",transportation resilience natural,0.7287
-"inclusi""",disaster recovery infrastructure,0.6396
-"inclusi""",natural disasters disaster,0.5614
-"inclusi""",urban transportation network,0.4899
-"inclusi""",climate change,0.3231
-"inclusi""",change adaptation,0.2975
-"inclusi""",urban,0.2158
-"inclusi""",recovery,0.1645
-"inclusi""",natural,0.0006
+1,resilience transportation relatesto,0.8324
+1,concerns users experts,0.2075
+1,characteristics define,0.1309
+1,agencies 58 33,0.0893
+1,score economic,0.0871
+1,groups household composition,0.0554
+1,apply instructions,0.054
+1,event calls shift,0.0196
+1,abdelmagid status racial,-0.0281
+1,thechallenges posed uncertain,-0.0348
+2,disaster reconstruction projects,0.742
+2,manage postdisaster,0.3144
+2,satisfaction based contractual,0.2727
+2,wenger 2007 berke,0.1718
+2,address client values,0.1151
+2,play zhang kumaraswamy,0.0743
+2,define key,0.0477
+2,perceived performance lower,0.0296
+2,pinnington 2014 size,0.0122
+2,columns column includes,0.0056
+3,disaster resilient operations,0.6417
+3,use selected lean,0.3184
+3,activities indicators,0.2199
+3,systematic literature review,0.2044
+3,maps vsm key,0.18
+3,meanings concept,0.1635
+3,stream 2011 service,0.153
+3,framework requirements big,0.1066
+3,light designing relief,0.0559
+3,management scholars pay,0.0411
+4,disaster community resilience,0.6361
+4,causing severe delays,0.2704
+4,disproportionately impacted result,0.2642
+4,transportlinks opened based,0.2639
+4,supermarkets population,0.1606
+4,taylor 2019 children,0.1408
+4,intensity road segment,0.1392
+4,necessity evidence,0.1314
+4,jasour 2022 studies,0.0706
+4,includingcommuting,-0.0453
+5,disaster resilience transportation,0.7361
+5,climatic variability significantly,0.222
+5,communities lack access,0.1637
+5,limits applicability findings,0.153
+5,nodes tod reduces,0.1322
+5,structures enhance systemic,0.0874
+5,terminology field zhang,0.0732
+5,interplay political economic,0.0662
+5,real time data,0.0565
+5,enable proactive,0.0365
 6,resilience transportation systems,0.716
 6,hurricane flood tsunami,0.3639
 6,strike breakdown caused,0.346
@@ -99,282 +59,143 @@ paper_id,phrase,score
 6,meaning scientifically clarify,0.0834
 6,close mayada,0.0534
 6,choose substitute mode,-0.017
-7,crisis decisions ai,0.7348
-7,data storage capacities,0.2718
-7,deteriorate crm,0.2144
-7,challenges design development,0.1588
-7,recovery recovery progress,0.1495
-7,intuitively weick sutcliffe,0.1492
-7,advancements sensing technologies,0.1422
-7,integration requires recognizing,0.1072
-7,papagiannidis 26 synthesize,-0.0153
-7,affiliations demographic attributes,-0.0289
-"eward """,computing crisis resilience,0.6581
-"eward """,applied computing crisis,0.5755
-"eward """,information systems responsible,0.4943
-"eward """,centered computing,0.4425
-"eward """,equity human,0.398
-"eward """,ai,0.3686
-"eward """,management,0.292
-"eward """,information,0.2271
-"eward """,applied,0.1368
-"eward """,circle information,0.0752
-8,transportation infrastructure resilience,0.6825
-8,event thresholds defined,0.2469
-8,tornadoes step,0.1836
-8,presidential,0.1806
-8,different operational physical,0.1491
-8,delays 53 54,0.1307
-8,topological measures functional,0.0905
-8,change 22 access,0.0895
-8,tool does incorporate,0.013
-8,frost depth assess,0.006
-"y""",pavements sustainable resilient,0.9262
-"y""",infrastructure pavements sustainable,0.9081
-"y""",pavements sustainable pavements,0.8929
-"y""",pavements resilient pavements,0.8913
-"y""",infrastructure pavements,0.8457
-"y""",pavements,0.7021
-"y""",sustainable resilient,0.5021
-"y""",infrastructure,0.4159
-"y""",resilient,0.3953
-"y""",sustainable,0.3852
-9,disaster impacts,0.6894
-9,participation plans accessible,0.2172
-9,engineering georgia,0.1972
-9,price index ncei,0.164
-9,preservation restoration essential,0.1458
-9,handle snow witnessed,0.1296
-9,federal laws provide,0.1282
-9,criticism perceived inability,0.0799
-9,record 2680 instances,0.0122
-9,universally accepted definition,-0.0013
-"practic""",resilience community engagement,0.7805
-"practic""",community engagement public,0.6218
-"practic""",public involvement performance,0.5836
-"practic""",involvement performance monitoring,0.5114
-"practic""",performance monitoring planning,0.359
-"practic""",engagement,0.3514
-"practic""",planning,0.3457
-"practic""",community,0.3045
-"practic""",public,0.298
-"practic""",negotiated,0.1797
-10,resilience road asset,0.728
-10,zealand philippine national,0.328
-10,management measures traditional,0.299
-10,government units connect,0.2485
-10,growth increased,0.1841
-10,guidelines gaps,0.1302
-10,climatological hydro meteorological,0.1169
-10,1201 9781003429258 49,0.013
-10,manage outputs client,-0.0254
-10,slow onset events,-0.0769
-"is """,pavements performance management,0.6759
-"is """,resilience climate adaptation,0.5603
-"is """,performance measures resilience,0.5576
-"is """,adaptation asset management,0.4228
-"is """,durability long,0.3597
-"is """,term performance,0.2489
-"is """,asset,0.1909
-"is """,management,0.1609
-"is """,measures,0.1245
-"is """,reporting,0.0919
-11,theconceptofresilienceisevolvingintothegeneralbusinessframeworkofdotsacrossthecountryto ensurethatthetransportationsystemsareabletowithstandextremeweathereventsresultingfromclimatechange terrorism,0.6155
-11,state departments transportation,0.5248
-11,dots methodology,0.3464
-11,andearthworkswithanestimatedbudgetof,0.1732
-11,stability domain relates,0.1697
-11,communities deloitte access,0.1472
-11,removaltotherepairandrestorationofinfrastructure controlsystems,0.1202
-11,available online,0.0828
-11,natural normal ability,0.0274
-11,jrenne fau,-0.0446
-"orma""",resilience transportation dots,0.8969
-"orma""",transportation dots hazards,0.8182
-"orma""",dots hazards disasters,0.813
-"orma""",resilience transportation,0.7819
-"orma""",hazards disasters,0.6878
-"orma""",transportation dots,0.6541
-"orma""",disasters,0.5858
-"orma""",resilience,0.581
-"orma""",dots,0.4515
-"orma""",transportation,0.4462
-12,resilient transportation infrastructure,0.6815
-12,wildfire hazard events,0.3302
-12,available tools resources,0.2144
-12,assets method evaluating,0.202
-12,annualized reported rdr,0.1928
-12,planning considers meet,0.172
-12,dots mpos varies,0.1338
-12,kristin lewis kristin,0.0874
-12,runs improve fit,0.0801
-12,model form specified,0.023
-"sta""",making sustainability resilience,0.7076
-"sta""",vulnerability resilience assessment,0.6561
-"sta""",natural hazards,0.5002
-"sta""",climate change,0.4231
-"sta""",planning analysis decision,0.3831
-"sta""",weather events,0.3547
-"sta""",change vulnerability,0.3448
-"sta""",extreme,0.2515
-"sta""",assessment,0.221
-"sta""",making,0.0644
-13,infrastructure climate change,0.7474
-13,tarmacs reduced life,0.2453
-13,create urgent need,0.1552
-13,inherent limits uncertainty,0.1526
-13,protection xi effective,0.1421
-13,locomotives ships aircraft,0.0871
-13,assets listed options,0.0831
-13,docks occurrence,0.0766
-13,density high altitudes,0.071
-13,frequency duration,0.0478
-"structu""",climate change transportation,0.8577
-"structu""",transportation sector adaptation,0.8086
-"structu""",change transportation,0.6961
-"structu""",sector adaptation options,0.6109
-"structu""",transportation sector,0.6011
-"structu""",climate,0.4359
-"structu""",adaptation,0.3739
-"structu""",sector,0.2487
-"structu""",change,0.1937
-"structu""",options,0.1687
-14,infrastructure resilience components,0.7919
-14,8r principle termed,0.1693
-14,warning health tips,0.1415
-14,ready,0.127
-14,northeastern united states,0.0827
-14,keywords tokens related,0.081
-14,ij matrix element,0.0491
-14,tion domain lack,0.0402
-14,46 73 34,-0.0185
-14,rendition selected choice,-0.1293
-"entific""",disaster resilience mcda,0.7288
-"entific""",8r resilience,0.6042
-"entific""",stakeholder centered assessment,0.432
-"entific""",responsiveness recoverability placement,0.428
-"entific""",ness reliability,0.3556
-"entific""",principal concepts redundancy,0.3504
-"entific""",metrics 8r,0.2507
-"entific""",model,0.1135
-"entific""",centered,0.0913
-"entific""",rendition,0.0004
-15,seismic risk analysis,0.6303
-15,nations definitions resilience,0.3677
-15,asset element,0.3364
-15,methods assessment metrics,0.2417
-15,iso 55002,0.2249
-15,simply combines probability,0.198
-15,management shifted,0.1935
-15,road network functionality,0.127
-15,pgadi limit state,0.1145
-15,repair cost usd,0.0554
-$12 ,resilience metrics road,0.7109
-$12 ,resilience seismic hazards,0.699
-$12 ,italy resilience,0.6421
-$12 ,road asset,0.5088
-$12 ,seismic,0.3759
-$12 ,management road network,0.3754
-$12 ,hazards,0.3715
-$12 ,68 italy,0.2669
-$12 ,asset management,0.2598
-$12 ,metrics,0.2318
-16,disasters stakeholder value,0.6992
-16,identification integration multisector,0.2726
-16,community federal state,0.2046
-16,different phases preparedness,0.1684
-16,shared,0.142
-16,51 interviewees interviewees,0.0973
-16,michael explain think,0.0669
-16,install expensive highimpact,0.0392
-16,season consecutive,0.0057
+7,ai crisis management,0.7234
+7,data storage capacities,0.3166
+7,robustness safety privacy,0.2384
+7,advancements sensing technologies,0.1651
+7,67 exacerbated implementing,0.1584
+7,intuitively weick,0.0912
+7,literature reviews used,0.0476
+7,create path dependencies,0.0042
+7,approximately hours,-0.0053
+7,affiliations demographic attributes,-0.0084
+8,transportation infrastructure resilience,0.7024
+8,tornadoes step,0.1902
+8,events estimated cost,0.18
+8,term assessment sync,0.142
+8,result types losses,0.1298
+8,cumulative distribution function,0.0705
+8,addition ramcap process,0.0491
+8,frost depth assess,0.0367
+8,definition current,0.0187
+8,directive 21 recognizes,0.007
+9,disaster impacts,0.7054
+9,guidebook transportation agencies,0.352
+9,seeking build negotiated,0.1932
+9,life return investment,0.177
+9,atlanta ga 2sam,0.1571
+9,public participation tea,0.1339
+9,enacted 1998 reauthorized,0.1319
+9,equipped handle snow,0.07
+9,criticism perceived inability,0.0633
+9,universally accepted definition,-0.0436
+10,resilience road asset,0.7331
+10,zealand philippine national,0.2986
+10,government agencies lead,0.2361
+10,growth increased,0.1833
+10,definition,0.1429
+10,guidelines quantifying,0.132
+10,climatological hydro meteorological,0.1265
+10,10 1201 9781003429258,-0.0058
+10,manage outputs client,-0.0154
+10,slow onset events,-0.0798
+11,resilience transportation dots,0.7019
+11,astudyconductedinthenetherlands whichexamined terrorist,0.301
+11,federal state,0.2783
+11,orinevitablelong termimpactslikeaginginfrastructure climatechangeandsealevelrise,0.2318
+11,storm surge led,0.2207
+11,existing security,0.1576
+11,outcomesandapplicationsoftheinformationbasedonmultiplecasestudiesdiscussedinthereport,0.1345
+11,102178 eachlayercangiveabig,0.0867
+11,efficiency baselineitselfsensible,0.0525
+11,adisastrous attack presupposesfastrepairoftheinfrastructure,0.0317
+12,resilient transportation infrastructure,0.6532
+12,wildfire hazard events,0.327
+12,project dashboard,0.2694
+12,outcomes rdr tool,0.241
+12,guidance monetary values,0.2199
+12,metamodel enabling,0.1901
+12,duration repair cost,0.1605
+12,separate software license,0.0813
+12,author kristin lewis,0.0557
+12,form specified,-0.0153
+13,infrastructure climate change,0.7503
+13,personal protective equipment,0.2342
+13,locomotives ships aircraft,0.1063
+13,events nologies enable,0.0923
+13,recovery processes severe,0.0685
+13,eurocontrol developed natural,0.0639
+13,common number extreme,0.0523
+13,variations strong interconnectivity,0.0308
+13,reviewing options,0.0156
+13,lykou stergiopoulos papachrysanthou,-0.029
+14,disaster resilience infrastructure,0.7643
+14,refers fully functioning,0.2724
+14,8r principle termed,0.1921
+14,serve substitute components,0.1216
+14,health tips risk,0.1116
+14,validating unique,0.1011
+14,loss function,0.1008
+14,29 30 31,0.0448
+14,mcda process select,0.0431
+14,tweets fig percentage,-0.0284
+15,risk management resilience,0.6279
+15,road assets underwent,0.4038
+15,assessing seismic,0.3173
+15,2014 iso 55002,0.2308
+15,networks terms metrics,0.2156
+15,standards values close,0.2116
+15,usually considered fig,0.1475
+15,adopted european union,0.1117
+15,pga maximum cost,0.0835
+15,needed implement scheduled,0.0277
+16,disasters stakeholder,0.6942
+16,identification integration multisector,0.2508
+16,separate discussions submitted,0.1872
+16,values ideals guide,0.1298
+16,michael research findings,0.1057
+16,chhotray 2012 fig,0.0928
+16,1527 6988,0.0275
+16,series average active,0.0149
+16,cost instead retrofitting,0.0131
 16,terms gender difference,0.0026
-"s (cred""",stakeholders community disaster,0.7454
-"s (cred""",value stakeholder value,0.6815
-"s (cred""",disaster management,0.5875
-"s (cred""",multisector stakeholders,0.5233
-"s (cred""",value priority value,0.4296
-"s (cred""",value dynamics,0.4028
-"s (cred""",resilience,0.3474
-"s (cred""",management,0.1908
-"s (cred""",community,0.1822
-"s (cred""",dynamics multisector,0.139
-17,earthquake resilient lifelines,0.7232
-17,reduce community,0.322
-17,wastewater systems susceptible,0.3175
-17,needs performance assessment,0.268
-17,electric power telecommunication,0.1638
-17,terms recovery timeframes,0.1023
-17,likelihood failure,0.0941
-17,natural gas liquid,0.0678
-17,16 917 39,0.0663
-17,operations operations exclude,0.0168
-"eline p""",resilience lifelines social,0.9412
-"eline p""",resilience lifelines,0.8399
-"eline p""",lifelines social needs,0.7812
-"eline p""",resilience,0.757
-"eline p""",social needs,0.6769
-"eline p""",lifelines social,0.6007
-"eline p""",lifelines,0.4113
-"eline p""",social,0.4048
-"eline p""",needs,0.3345
-18,state disaster impact,0.6415
-18,weather radar capable,0.3346
-18,adaptation mitigating emissions,0.3183
-18,bus rescheduling problems,0.2124
-18,restoration time restoration,0.1877
-18,flow network 360,0.1679
-18,parameters quantify performance,0.1178
-18,types natural,0.0944
-18,seawater temperature,0.0649
-18,subsections review article,-0.0271
-"upt the""",resilience index vulnerability,0.7849
-"upt the""",vulnerability index accessibility,0.7372
-"upt the""",modeling resilience,0.6541
-"upt the""",accessibility index reliability,0.6274
-"upt the""",vulnerability,0.4731
-"upt the""",index reliability,0.4323
-"upt the""",reliability,0.4088
-"upt the""",accessibility,0.3865
-"upt the""",index,0.1525
-"upt the""",modeling,0.0544
-19,resilience ci disasteroccurence,0.7017
-19,model calculation disruption,0.3083
-19,place prevent traffic,0.2544
-19,transport element transport,0.2496
-19,rate tn,0.1984
-19,scale corresponding transformation,0.1916
-19,indicating higher functionality,0.1515
-19,decision nodes define,0.1424
-19,forces means,0.0954
-19,37 41 43,0.0356
-"verlapp""",resilience disasters risk,0.7424
-"verlapp""",critical infrastructure transportation,0.5987
-"verlapp""",disasters,0.4999
-"verlapp""",reduction critical infrastructure,0.4639
-"verlapp""",transportation influence,0.4476
-"verlapp""",risk reduction,0.3453
-"verlapp""",diagrams,0.3213
-"verlapp""",influence,0.2261
-"verlapp""",critical,0.2249
-"verlapp""",reduction,0.0282
-20,resilience transportation resilient,0.7525
-20,recovery facing interruptions,0.2998
-20,model prioritizes preparedness,0.1983
-20,duration performance deviations,0.1653
-20,meteorological data,0.1248
-20,37 developed novel,0.0895
-20,control implemented monitor,0.0823
-20,prohibitively,0.0664
-20,divide distinct phases,0.0426
-20,plays vital,-0.0312
-"d strat""",transportation measurement resilience,0.904
-"d strat""",resilient transportation measurement,0.8961
-"d strat""",resilient resilient transportation,0.8427
-"d strat""",resilience enhancement resilience,0.7391
-"d strat""",measurement resilience enhancement,0.728
-"d strat""",resilient,0.5906
-"d strat""",transportation measurement,0.5283
-"d strat""",transportation,0.3831
-"d strat""",measurement,0.1806
-"d strat""",enhancement,0.1082
+17,earthquake resilient lifelines,0.7387
+17,wastewater systems susceptible,0.3128
+17,reduce community,0.3064
+17,needs performance assessment,0.2539
+17,electric power telecommunication,0.1659
+17,terms recovery timeframes,0.095
+17,likelihood failure,0.0937
+17,natural gas liquid,0.0754
+17,16 917 39,0.0706
+17,operations operations exclude,0.0063
+18,state disaster impact,0.6366
+18,sub systems power,0.175
+18,limitations review authors,0.1678
+18,rescheduling problems,0.1625
+18,midwestern higher frequency,0.1514
+18,parameters quantify performance,0.118
+18,road network link,0.0972
+18,seawater temperature,0.0857
+18,types natural,0.0757
+18,resist absorb,-0.0317
+19,resilience assessment transport,0.7147
+19,unknown events,0.2134
+19,diagrams appropriate tool,0.1943
+19,demand tn order,0.1817
+19,ensure function,0.1187
+19,node partial collapse,0.1169
+19,increased depend current,0.11
+19,percentage values 100,0.0544
+19,use ids address,0.0368
+19,define notion,0.0144
+20,analyze resilience transportation,0.7344
+20,recovery controller,0.2559
+20,interruptions delays stop,0.2015
+20,defining metrics,0.1869
+20,weather events,0.1638
+20,terms lost days,0.0747
+20,result core set,0.0515
+20,comprehensive integrated approach,0.0464
+20,considered qi 2022,0.0459
+20,pressure gradually,0.0276

@@ -1,84 +1,54 @@
 paper_id,phrase,score
-1,transportation performance capabilities,0.7277
-1,transportation performance,0.6835
-1,capabilities vulnerable populations,0.5823
-1,vulnerable populations,0.5449
-1,transportation,0.5328
-1,performance capabilities vulnerable,0.4678
-1,vulnerable,0.3432
-1,populations,0.3351
-1,capabilities,0.2659
-1,performance,0.2234
-"ssists """,transportation systems resilience,0.7855
-"ssists """,resilience equity,0.685
-"ssists """,populations mobility vulnerability,0.5816
-"ssists """,mobility,0.4197
-"ssists """,justice asset management,0.3832
-"ssists """,equity social,0.381
-"ssists """,vulnerable,0.3652
-"ssists """,populations,0.1978
-"ssists """,management organizational,0.1755
-"ssists """,systems,0.1479
-2,client values contractors,0.643
-2,achieving postdisaster reconstruction,0.5892
-2,satisfactory delivery client,0.5312
-2,reconstruction success,0.495
-2,success based satisfactory,0.3368
-2,services,0.2477
-2,delivery,0.2402
-2,achieving,0.2042
-2,values,0.1847
-2,based,0.0693
-"through Lean Transformation""",disaster resilient operations,0.6419
-"through Lean Transformation""",use selected lean,0.3174
-"through Lean Transformation""",performance indicators carried,0.2583
-"through Lean Transformation""",dros systematic,0.2195
-"through Lean Transformation""",transformation different,0.1621
-"through Lean Transformation""",meanings concept,0.1234
-"through Lean Transformation""",framework requirements big,0.1042
-"through Lean Transformation""",management scholars pay,0.0446
-"through Lean Transformation""",light designing relief,0.0415
-"through Lean Transformation""",13 01 2022,0.01
-" review""",responsiveness disaster resilience,0.6358
-" review""",disaster management industrial,0.5772
-" review""",operations management lean,0.4938
-" review""",kpi responsiveness disaster,0.3648
-" review""",stream mapping kpi,0.3373
-" review""",mapping,0.2676
-" review""",transformation value,0.2488
-" review""",relief,0.1312
-" review""",case,0.039
-" review""",study,-0.0024
-4,disaster community resilience,0.7845
-4,network improving disaster,0.6999
-4,improving disaster,0.6855
-4,transportation network improving,0.5698
-4,disaster,0.4787
-4,role transportation,0.4039
-4,community,0.2803
-4,network,0.2472
-4,underestimated role,0.1328
-4,improving,0.1238
-5,transportation resilience climate,0.8658
-5,infrastructure policy technology,0.5312
-5,resilience,0.5145
-5,transportation,0.4828
-5,change infrastructure,0.4322
-5,climate change,0.4298
-5,technology social,0.3293
-5,social dimensions,0.3235
-5,policy,0.2081
-5,dimensions,0.1228
-"inclusi""",infrastructure resilience climate,0.7738
-"inclusi""",transportation resilience natural,0.7287
-"inclusi""",disaster recovery infrastructure,0.6396
-"inclusi""",natural disasters disaster,0.5614
-"inclusi""",urban transportation network,0.4899
-"inclusi""",climate change,0.3231
-"inclusi""",change adaptation,0.2975
-"inclusi""",urban,0.2158
-"inclusi""",recovery,0.1645
-"inclusi""",natural,0.0006
+1,transportation systems resilience,0.7855
+1,vulnerable populations resilience,0.6107
+1,transportation performance capabilities,0.5752
+1,mobility,0.405
+1,performance capabilities vulnerable,0.3745
+1,equity social,0.3274
+1,justice asset management,0.325
+1,populations,0.2194
+1,systems,0.161
+1,management organizational,0.1527
+2,postdisaster reconstruction satisfaction,0.6887
+2,client values contractors,0.6419
+2,reconstruction success based,0.5943
+2,client values postdisaster,0.5034
+2,achieving,0.2356
+2,services,0.2324
+2,values,0.225
+2,delivery,0.1987
+2,satisfactory,0.1805
+2,based,0.0574
+3,responsiveness disaster resilience,0.6868
+3,disaster management industrial,0.6125
+3,operations management lean,0.4753
+3,relief operations,0.2974
+3,kpi responsiveness disaster,0.2897
+3,transformation value,0.2307
+3,mapping,0.2295
+3,stream mapping kpi,0.2155
+3,developing,0.1995
+3,case,0.0271
+4,disaster community resilience,0.7163
+4,resilience transport networks,0.6322
+4,transportation network improving,0.5021
+4,hazards,0.3681
+4,networks equity,0.3661
+4,urban planning,0.3618
+4,equity accessibility,0.3275
+4,role,0.0574
+4,underestimated,0.0066
+4,natural,0.0018
+5,transportation resilience climate,0.8311
+5,natural disasters disaster,0.4948
+5,change infrastructure,0.4461
+5,dimensions transportation,0.3787
+5,climate change,0.364
+5,technology social dimensions,0.2652
+5,urban,0.1958
+5,policy,0.1453
+5,recovery,0.1351
+5,natural,-0.0088
 6,connotation resilience transportation,0.9036
 6,transportation resilience summative,0.889
 6,resilience summative review,0.6485
@@ -89,273 +59,143 @@ paper_id,phrase,score
 6,definition,0.1773
 6,summative,0.1551
 6,review definition,-0.014
-7,ai crisis resilience,0.8654
-7,responsible ai crisis,0.7902
-7,crisis resilience,0.6841
-7,resilience management,0.6685
-7,roadmap responsible ai,0.6624
-7,ai,0.4694
-7,crisis,0.4425
-7,responsible,0.3769
-7,management,0.3336
-7,roadmap,0.3007
-"eward """,computing crisis resilience,0.6581
-"eward """,applied computing crisis,0.5755
-"eward """,information systems responsible,0.4943
-"eward """,centered computing,0.4425
-"eward """,equity human,0.398
-"eward """,ai,0.3686
-"eward """,management,0.292
-"eward """,information,0.2271
-"eward """,applied,0.1368
-"eward """,circle information,0.0752
-8,transportation infrastructure resilience,0.7932
-8,framework evaluating transportation,0.5959
-8,resilience,0.5168
-8,performance measure based,0.4848
-8,measure based framework,0.3962
-8,infrastructure,0.3734
-8,evaluating,0.2652
-8,framework,0.2003
-8,measure,0.1837
-8,based,0.0585
-"y""",pavements sustainable resilient,0.9262
-"y""",infrastructure pavements sustainable,0.9081
-"y""",pavements sustainable pavements,0.8929
-"y""",pavements resilient pavements,0.8913
-"y""",infrastructure pavements,0.8457
-"y""",pavements,0.7021
-"y""",sustainable resilient,0.5021
-"y""",infrastructure,0.4159
-"y""",resilient,0.3953
-"y""",sustainable,0.3852
-9,resilience capability maturity,0.6978
-9,public partnership transportation,0.5437
-9,resilience authentic public,0.5392
-9,disaster,0.4197
-9,maturity model,0.344
-9,practice negotiated,0.2483
-9,public,0.1666
-9,authentic,0.0628
-9,model,0.0588
-9,enhancing,0.0491
-"practic""",resilience community engagement,0.7805
-"practic""",community engagement public,0.6218
-"practic""",public involvement performance,0.5836
-"practic""",involvement performance monitoring,0.5114
-"practic""",performance monitoring planning,0.359
-"practic""",engagement,0.3514
-"practic""",planning,0.3457
-"practic""",community,0.3045
-"practic""",public,0.298
-"practic""",negotiated,0.1797
-10,pathways road performance,0.6342
-10,zealand philippine resilience,0.5084
-10,innovation,0.4094
-10,performance management,0.3502
-10,management upgrade,0.3175
-10,investment analysis,0.2977
-10,landscapes,0.242
-10,pathways,0.2359
-10,new,0.1096
-10,walkthrough,0.1001
-"is """,pavements performance management,0.6759
-"is """,resilience climate adaptation,0.5603
-"is """,performance measures resilience,0.5576
-"is """,adaptation asset management,0.4228
-"is """,durability long,0.3597
-"is """,term performance,0.2489
-"is """,asset,0.1909
-"is """,management,0.1609
-"is """,measures,0.1245
-"is """,reporting,0.0919
-11,departments transportation dots,0.6379
-11,resilience,0.609
-11,emergence resilience framework,0.5892
-11,state departments transportation,0.5885
-11,transportation,0.4881
-11,state departments,0.3596
-11,dots united,0.3171
-11,united states,0.257
-11,emergence,0.239
-11,framework state,0.2379
-"orma""",resilience transportation dots,0.8969
-"orma""",transportation dots hazards,0.8182
-"orma""",dots hazards disasters,0.813
-"orma""",resilience transportation,0.7819
-"orma""",hazards disasters,0.6878
-"orma""",transportation dots,0.6541
-"orma""",disasters,0.5858
-"orma""",resilience,0.581
-"orma""",dots,0.4515
-"orma""",transportation,0.4462
-12,resilient infrastructure return,0.7183
-12,decision making metamodeling,0.443
-12,investment robust decision,0.4315
-12,disaster,0.3457
-12,recovery tool,0.266
-12,return,0.214
-12,evaluating,0.1769
-12,decision,0.14
-12,suite,0.1139
-12,making,-0.0296
-"sta""",making sustainability resilience,0.7076
-"sta""",vulnerability resilience assessment,0.6561
-"sta""",natural hazards,0.5002
-"sta""",climate change,0.4231
-"sta""",planning analysis decision,0.3831
-"sta""",weather events,0.3547
-"sta""",change vulnerability,0.3448
-"sta""",extreme,0.2515
-"sta""",assessment,0.221
-"sta""",making,0.0644
-13,protecting transportation sector,0.7327
-13,transportation sector negative,0.6802
-13,negative impacts climate,0.6533
-13,transportation,0.5135
-13,climate,0.4226
-13,impacts,0.3174
-13,protecting,0.2681
-13,sector,0.263
-13,negative,0.1603
-13,change,0.0987
-"structu""",climate change transportation,0.8577
-"structu""",transportation sector adaptation,0.8086
-"structu""",change transportation,0.6961
-"structu""",sector adaptation options,0.6109
-"structu""",transportation sector,0.6011
-"structu""",climate,0.4359
-"structu""",adaptation,0.3739
-"structu""",sector,0.2487
-"structu""",change,0.1937
-"structu""",options,0.1687
-14,resilience model stakeholder,0.7642
-14,disaster resilience transportation,0.7632
-14,8r resilience model,0.6485
-14,transportation infrastructure network,0.4549
-14,disaster,0.44
-14,centered approach disaster,0.4159
-14,8r,0.2059
-14,approach,0.1395
-14,model,0.1188
-14,centered,0.0511
-"entific""",disaster resilience mcda,0.7288
-"entific""",8r resilience,0.6042
-"entific""",stakeholder centered assessment,0.432
-"entific""",responsiveness recoverability placement,0.428
-"entific""",ness reliability,0.3556
-"entific""",principal concepts redundancy,0.3504
-"entific""",metrics 8r,0.2507
-"entific""",model,0.1135
-"entific""",centered,0.0913
-"entific""",rendition,0.0004
-15,evaluation seismic resilience,0.7122
-15,road asset management,0.588
-15,resilience road,0.5706
-15,approach evaluation seismic,0.443
-15,probabilistic approach,0.3633
-15,seismic,0.3623
-15,asset,0.2881
-15,evaluation,0.1606
-15,approach,0.1094
-15,management,0.1036
-$12 ,68,1.0
-16,stakeholder value dynamics,0.676
-16,value dynamics hurricane,0.6402
-16,hurricane michael collaborative,0.5657
-16,decision making disaster,0.5454
-16,collaborative,0.2885
-16,understanding multisector,0.231
-16,understanding,0.1698
-16,dynamics,0.1146
-16,making,0.1046
-16,contexts,0.1008
-"s (cred""",stakeholders community disaster,0.7454
-"s (cred""",value stakeholder value,0.6815
-"s (cred""",disaster management,0.5875
-"s (cred""",multisector stakeholders,0.5233
-"s (cred""",value priority value,0.4296
-"s (cred""",value dynamics,0.4028
-"s (cred""",resilience,0.3474
-"s (cred""",management,0.1908
-"s (cred""",community,0.1822
-"s (cred""",dynamics multisector,0.139
-17,community resilience lifeline,0.8532
-17,resilience lifeline systems,0.7742
-17,lifeline systems societal,0.7288
-17,resilience,0.571
-17,societal needs performance,0.5333
-17,lifeline,0.5219
-17,community,0.3346
-17,systems,0.2615
-17,performance assessment,0.2179
-17,needs,0.2012
-"eline p""",resilience lifelines social,0.9412
-"eline p""",resilience lifelines,0.8399
-"eline p""",lifelines social needs,0.7812
-"eline p""",resilience,0.757
-"eline p""",social needs,0.6769
-"eline p""",lifelines social,0.6007
-"eline p""",lifelines,0.4113
-"eline p""",social,0.4048
-"eline p""",needs,0.3345
-18,resilience modeling concepts,0.7619
-18,mode modeling techniques,0.351
-18,transportation,0.3035
-18,modeling,0.281
-18,systems comprehensive,0.1721
-18,concepts,0.1564
-18,review based mode,0.1549
-18,based,0.0357
-18,comprehensive review,0.0268
-18,techniques,0.0034
-"upt the""",resilience index vulnerability,0.7849
-"upt the""",vulnerability index accessibility,0.7372
-"upt the""",modeling resilience,0.6541
-"upt the""",accessibility index reliability,0.6274
-"upt the""",vulnerability,0.4731
-"upt the""",index reliability,0.4323
-"upt the""",reliability,0.4088
-"upt the""",accessibility,0.3865
-"upt the""",index,0.1525
-"upt the""",modeling,0.0544
-19,modelling resilience transport,0.7537
-19,transport critical infrastructure,0.6816
-19,using influence diagrams,0.5306
-19,transport,0.4592
-19,resilience,0.4369
-19,diagrams,0.3764
-19,infrastructure using,0.3763
-19,modelling,0.369
-19,critical,0.2438
-19,using,0.0584
-"verlapp""",resilience disasters risk,0.7424
-"verlapp""",critical infrastructure transportation,0.5987
-"verlapp""",disasters,0.4999
-"verlapp""",reduction critical infrastructure,0.4639
-"verlapp""",transportation influence,0.4476
-"verlapp""",risk reduction,0.3453
-"verlapp""",diagrams,0.3213
-"verlapp""",influence,0.2261
-"verlapp""",critical,0.2249
-"verlapp""",reduction,0.0282
-20,resilient transportation systems,0.9357
-20,resilient transportation,0.8849
-20,review resilient transportation,0.8675
-20,transportation systems years,0.5827
-20,resilient,0.5409
-20,transportation,0.5122
-20,review resilient,0.4545
-20,systems years,0.2197
-20,review,0.0908
-20,years,0.0727
-"d strat""",transportation measurement resilience,0.904
-"d strat""",resilient transportation measurement,0.8961
-"d strat""",resilient resilient transportation,0.8427
-"d strat""",resilience enhancement resilience,0.7391
-"d strat""",measurement resilience enhancement,0.728
-"d strat""",resilient,0.5906
-"d strat""",transportation measurement,0.5283
-"d strat""",transportation,0.3831
-"d strat""",measurement,0.1806
-"d strat""",enhancement,0.1082
+7,ai crisis resilience,0.7664
+7,responsible ai,0.569
+7,information systems responsible,0.5142
+7,management circle information,0.2899
+7,roadmap,0.2613
+7,applied computing,0.2581
+7,information,0.1899
+7,equity,0.1882
+7,centered,0.1617
+7,human,0.1499
+8,resilience infrastructure pavements,0.79
+8,transportation infrastructure resilience,0.6467
+8,evaluating transportation,0.4622
+8,performance measure based,0.3862
+8,resilience,0.3736
+8,infrastructure,0.3611
+8,sustainable,0.3105
+8,framework,0.1974
+8,measure,0.1261
+8,based,0.0627
+9,resilience community engagement,0.654
+9,partnership transportation practice,0.5699
+9,public involvement performance,0.4035
+9,disaster,0.3954
+9,maturity model negotiated,0.3243
+9,capability,0.2375
+9,performance monitoring planning,0.1628
+9,practice,0.072
+9,enhancing,0.0582
+9,authentic,0.0512
+10,pavements performance management,0.6473
+10,zealand philippine resilience,0.4467
+10,climate adaptation asset,0.4355
+10,upgrade investment,0.3712
+10,asset management,0.2646
+10,term performance,0.2562
+10,durability long,0.2529
+10,measures,0.1257
+10,pathways,0.1132
+10,reporting,0.0963
+11,resilience transportation dots,0.8417
+11,departments transportation dots,0.6525
+11,united states resilience,0.6014
+11,hazards disasters,0.5849
+11,transportation,0.4089
+11,dots united,0.3797
+11,state departments,0.3031
+11,emergence,0.2227
+11,united states,0.189
+11,framework,0.0931
+12,resilient infrastructure return,0.6819
+12,climate change vulnerability,0.4115
+12,decision making metamodeling,0.41
+12,investment robust decision,0.373
+12,hazards extreme,0.3502
+12,making sustainability,0.3342
+12,recovery tool,0.2176
+12,assessment,0.1848
+12,weather events,0.1733
+12,suite,0.1065
+13,climate change transportation,0.8137
+13,transportation sector adaptation,0.7368
+13,protecting transportation sector,0.616
+13,negative impacts climate,0.5685
+13,adaptation options,0.3636
+13,sector negative,0.2466
+13,impacts,0.2215
+13,options,0.1364
+13,change,0.1275
+13,protecting,0.1174
+14,resilience model stakeholder,0.7449
+14,disaster,0.411
+14,reliability,0.4076
+14,recoverability placement rendition,0.3622
+14,transportation infrastructure network,0.3497
+14,metrics 8r,0.2475
+14,assessment,0.2168
+14,principal concepts,0.1764
+14,centered approach,0.1669
+14,ness,0.0322
+15,resilience road asset,0.6888
+15,italy resilience metrics,0.6243
+15,network resilience,0.4837
+15,seismic hazards,0.4725
+15,management road network,0.3753
+15,asset management,0.3141
+15,management italy,0.3037
+15,probabilistic approach evaluation,0.297
+15,metrics,0.2411
+15,network,0.1135
+16,disaster contexts stakeholder,0.7375
+16,multisector stakeholder value,0.6495
+16,value dynamics,0.3946
+16,dynamics hurricane,0.3897
+16,value priority value,0.3652
+16,resilience,0.3058
+16,decision making,0.2807
+16,collaborative,0.2566
+16,dynamics multisector,0.2083
+16,michael,0.1388
+17,community resilience lifeline,0.8594
+17,resilience lifeline systems,0.7538
+17,lifelines social needs,0.7172
+17,lifeline systems societal,0.6566
+17,assessment resilience,0.6208
+17,societal needs performance,0.534
+17,social,0.2987
+17,needs,0.241
+17,performance assessment,0.2214
+17,systems,0.2139
+18,resilience modeling concepts,0.7303
+18,transportation systems comprehensive,0.4017
+18,index accessibility index,0.3402
+18,vulnerability,0.3292
+18,reliability,0.313
+18,modeling,0.1888
+18,mode,0.167
+18,concepts,0.0922
+18,review based,0.011
+18,techniques,-0.0253
+19,diagrams resilience disasters,0.7259
+19,infrastructure transportation influence,0.5708
+19,using influence diagrams,0.5232
+19,transport critical,0.4713
+19,reduction critical infrastructure,0.4213
+19,modelling,0.3139
+19,risk,0.2662
+19,critical,0.2157
+19,using,0.0466
+19,reduction,-0.0032
+20,transportation measurement resilience,0.8854
+20,resilient transportation systems,0.8411
+20,review resilient transportation,0.7724
+20,resilience enhancement resilience,0.6682
+20,transportation systems,0.5103
+20,years resilient,0.4716
+20,systems years,0.1456
+20,measurement,0.1214
+20,enhancement,0.0724
+20,review,-0.0737

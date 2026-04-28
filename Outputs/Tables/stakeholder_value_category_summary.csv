@@ -1,28 +1,14 @@
 category,unique_phrases,total_doc_support,avg_phrase_score
-Emerging/Unmapped,507,515,0.2144066469428008
-Resilience,87,105,0.6859906478578892
-Sustainability,19,30,0.5996808612440191
-Adaptability,15,17,0.43812666666666666
-Accessibility,16,16,0.43606354166666667
-Equity,20,15,0.428495
-Recoverability,11,11,0.3336181818181818
-Economic Continuity,2,11,0.4599181818181818
-Responsiveness,9,9,0.3098444444444445
-Operational Performance,8,9,0.24516875000000002
-Safety,6,6,0.28809999999999997
-Functionality,5,6,0.15960999999999997
-Robustness,5,6,0.23449
-Reliability,5,5,0.46768
-Capacity,3,4,0.2403833333333333
-Redundancy,3,4,0.30401666666666666
-Connectivity,3,3,0.31148333333333333
-Restoration Speed,3,3,0.24026666666666666
-Mobility,3,2,0.47700000000000004
-Serviceability,3,2,0.3172333333333333
-Flexibility,2,2,0.2551
-Pollution Prevention,2,2,0.1984
-Resource Availability,2,2,0.26655
-Environmental Protection,1,2,0.04393333333333333
-Cost-effectiveness,1,1,0.1645
-Economic Recovery,1,1,0.1645
-Public Health Support,1,1,0.298
+Emerging/Unmapped,363,363,0.14267603305785126
+Resilience,14,14,0.7094928571428571
+Recoverability,7,7,0.1683142857142857
+Adaptability,3,3,0.23353333333333334
+Safety,3,3,0.2455333333333333
+Operational Performance,2,2,0.324
+Reliability,2,2,0.3
+Responsiveness,2,2,0.09105
+Robustness,2,2,0.12415
+Accessibility,1,1,0.1637
+Connectivity,1,1,0.0308
+Mobility,1,1,0.0853
+Sustainability,1,1,0.2446
